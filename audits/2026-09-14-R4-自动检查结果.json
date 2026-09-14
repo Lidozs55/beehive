@@ -1,0 +1,202 @@
+{
+  "scope": "finite structure, references, rosters, chronology and arithmetic; not semantic proof",
+  "checks": [
+    {
+      "name": "unique_116_units",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "three_volume_counts",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unit_sequences",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "every_unit_three_nonempty_beats",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "every_unit_has_title_hook_time",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "unit_budget_1122000",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "348_publish_chapters",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "publish_events_match_units",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "publish_budget_matches",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "18_opening_cards",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "opening_scene_cards_complete",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "no_published_chapters",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "58_unique_promises",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "42_main_16_seventh",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "all_unit_clues_resolved",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "all_seeds_and_payoffs_exist",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "no_payoff_before_seed",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "no_false_already_planted",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "six_upper_trials",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "all_upper_rosters_six",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "all_upper_outcomes_partition",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "intro_no_real_deaths",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "train_and_three_six_survive",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "core_repeat_limits",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "six_middle_rosters",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "30_distinct_middle_supporting_people",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "terminal_12x6_72_unique",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "six_normal_survivors_not_core",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "terminal_zero_brain_deaths_72_transfers",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "silent_resource_balance",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "terminal_resource_balance",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "birthday_within_168hours",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "104_week_limit_all_six",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "14_middle_windows_four_week_spacing",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "real_virtual_alternation",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "population_result_reproducible",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "protected_paths_excluded_from_delivery",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "markdown_relative_links_resolve",
+      "passed": true,
+      "details": ""
+    },
+    {
+      "name": "review_and_writing_entrypoints_present",
+      "passed": true,
+      "details": ""
+    }
+  ],
+  "passed": 39,
+  "total": 39
+}

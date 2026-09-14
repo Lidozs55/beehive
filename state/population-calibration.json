@@ -1,0 +1,15 @@
+{
+  "C": 21186.0,
+  "phase1_stock": 4761.900812493405,
+  "phase2_stock": 205.03071674201777,
+  "phase2_entry_per_Vyear": 551.0964791952443,
+  "real_death_share_phase2": 0.05769230769230771,
+  "phase3_entry_per_Ryear": 259.6512257746824,
+  "phase3_mean_task_death": 0.011349999999999999,
+  "phase3_hazard_per_Ryear": 0.1483937365988799,
+  "phase3_continuous_mean_years": 6.738828894800862,
+  "phase3_total_at_R20": 1586.8795274291151,
+  "phase3_front_at_R20": 1404.034382541875,
+  "phase3_outside_at_R20": 182.84514488724017,
+  "birth_release_per_Vyear": 33937.66351366558
+}

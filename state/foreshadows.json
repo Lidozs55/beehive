@@ -1,0 +1,1133 @@
+[
+  {
+    "id": "F1",
+    "title": "迁移断点",
+    "seed": "U01",
+    "payoff": [
+      "M23",
+      "D32",
+      "D34"
+    ],
+    "answer": "扫描过程未录入脑状态，与载体激活之间没有连续主观经历；童年前段不假；不是第七删除",
+    "forbidden": "不得恢复一个从未经历的迁移现场",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U01",
+      "M22",
+      "M23",
+      "D06",
+      "D32",
+      "D34"
+    ]
+  },
+  {
+    "id": "F2",
+    "title": "0号实验室与冷静改造",
+    "seed": "U33",
+    "payoff": [
+      "M29",
+      "D32"
+    ],
+    "answer": "许雁主持载体适配，成人高压方案适用面极小；儿童载体仅六人、每城一人；污染是掩盖性记录",
+    "forbidden": "不是蜂后、沈知薇或生母秘密设计一切",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U33",
+      "U35",
+      "M29",
+      "D32"
+    ]
+  },
+  {
+    "id": "F3",
+    "title": "仇明之死与真实存续",
+    "seed": "U28",
+    "payoff": [
+      "D03",
+      "D30",
+      "D38"
+    ],
+    "answer": "死亡的是模拟化身；真实本人邵闻川后来受伤、活着退勤",
+    "forbidden": "不能先真死再靠旧扫描复活",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U28",
+      "U29",
+      "U30",
+      "D03",
+      "D30",
+      "D38"
+    ]
+  },
+  {
+    "id": "F4",
+    "title": "不可用高等符文",
+    "seed": "U30",
+    "payoff": [
+      "M01",
+      "M18",
+      "D03"
+    ],
+    "answer": "提领权变实体，去旧签名后重新契约，有损耗",
+    "forbidden": "不因原主模拟死亡继承契约",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U30",
+      "U31",
+      "M01",
+      "M17",
+      "M18",
+      "D03"
+    ]
+  },
+  {
+    "id": "F5",
+    "title": "沈知薇失去的楼道记忆",
+    "seed": "U04",
+    "payoff": [
+      "M05",
+      "M29"
+    ],
+    "answer": "父亲可重述事实，旧体验不恢复；以新经历继续关系",
+    "forbidden": "不得用第七或相爱取回原体验",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U04",
+      "U25",
+      "M05",
+      "M29"
+    ]
+  },
+  {
+    "id": "F6",
+    "title": "同日生日与重复同场",
+    "seed": "U01",
+    "payoff": [
+      "U27",
+      "D24"
+    ],
+    "answer": "生日确属巧合；初次按成年窗口匹配，列车一次人为干预",
+    "forbidden": "不能把全部相遇和爱情抹成假",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U01",
+      "U13",
+      "U23",
+      "U24",
+      "U25",
+      "U26",
+      "U27",
+      "D24"
+    ]
+  },
+  {
+    "id": "F7",
+    "title": "四名入门退出者",
+    "seed": "U05",
+    "payoff": [
+      "U11",
+      "D07"
+    ],
+    "answer": "四人活着，试炼记忆被抑制；老师重逢先兑现",
+    "forbidden": "不推广为普通试炼死者都安全",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U05",
+      "U11",
+      "D07"
+    ]
+  },
+  {
+    "id": "F8",
+    "title": "沈知薇的医学证据",
+    "seed": "U34",
+    "payoff": [
+      "M15",
+      "D06"
+    ],
+    "answer": "先纠正样本与批次偏差，再以授权连续资料揭开行政死亡与真实生理的区别",
+    "forbidden": "影像由系统渲染，不能拍出统一删除脑区",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U34",
+      "U35",
+      "M15",
+      "M16",
+      "D05",
+      "D06",
+      "D17"
+    ]
+  },
+  {
+    "id": "F9",
+    "title": "教官没死的传闻",
+    "seed": "U31",
+    "payoff": [
+      "D03"
+    ],
+    "answer": "前期标传闻，后以本人、实物与记录互证",
+    "forbidden": "姜黎不因猜对一次变全知",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U31",
+      "D03"
+    ]
+  },
+  {
+    "id": "F10",
+    "title": "非系统代码",
+    "seed": "U05",
+    "payoff": [
+      "M14"
+    ],
+    "answer": "旧格式兼容层维护注释，不是外星人写信",
+    "forbidden": "工程阴性结果不能以后改口成第七暗号",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U05",
+      "U06",
+      "U35",
+      "M14"
+    ]
+  },
+  {
+    "id": "F11",
+    "title": "正式工蜂之上",
+    "seed": "U06",
+    "payoff": [
+      "M33",
+      "D01",
+      "D34"
+    ],
+    "answer": "阶段分流、身份注销与永久外勤是不同操作",
+    "forbidden": "真相不是所有人都一直死着",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U06",
+      "M33",
+      "M35",
+      "M36",
+      "D01",
+      "D34"
+    ]
+  },
+  {
+    "id": "F12",
+    "title": "蜂后的零",
+    "seed": "M20",
+    "payoff": [
+      "D42"
+    ],
+    "answer": "0-0原型签章的变体先露；终章她尝试一个不等于职务的自称",
+    "forbidden": "不作世界密码或第七真名；只终章显性说零",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M20",
+      "D42"
+    ]
+  },
+  {
+    "id": "F13",
+    "title": "深空剪影",
+    "seed": "D15",
+    "payoff": [
+      "D35",
+      "D40"
+    ],
+    "answer": "被动观测支持非自然威胁继续接近；动机、锁定状态未完全知",
+    "forbidden": "开放未来威胁，不假装已经解决",
+    "status": "待种",
+    "open_end": true,
+    "appearances": [
+      "D15",
+      "D28",
+      "D35",
+      "D40"
+    ]
+  },
+  {
+    "id": "F14",
+    "title": "队长潜力与观察",
+    "seed": "U28",
+    "payoff": [
+      "M31",
+      "D03",
+      "D24",
+      "D35"
+    ],
+    "answer": "蜂后识别协调能力并干预少数场景；不预测全部后果",
+    "forbidden": "仇明让招不夺走主角全部努力",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U28",
+      "U38",
+      "M08",
+      "M20",
+      "M31",
+      "D03",
+      "D24",
+      "D35"
+    ]
+  },
+  {
+    "id": "F15",
+    "title": "失眠与接口敏感",
+    "seed": "U01",
+    "payoff": [
+      "M14",
+      "D22",
+      "D41"
+    ],
+    "answer": "接口适配差和少量难滤残差；真实环境减轻但不立刻治愈",
+    "forbidden": "不是知道真相就能治疗一切",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U01",
+      "U32",
+      "M14",
+      "D22",
+      "D41"
+    ]
+  },
+  {
+    "id": "F16",
+    "title": "实验者的阴暗面",
+    "seed": "U14",
+    "payoff": [
+      "M32",
+      "D26",
+      "D36"
+    ],
+    "answer": "把想看清结果的冲动变为同意、止损和公开负结果的约束",
+    "forbidden": "不得因好奇拿无辜者未知风险试验",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U14",
+      "U15",
+      "U16",
+      "U17",
+      "M32",
+      "D26",
+      "D36"
+    ]
+  },
+  {
+    "id": "F17",
+    "title": "高级试炼的邀请",
+    "seed": "U22",
+    "payoff": [
+      "M01",
+      "M23"
+    ],
+    "answer": "高级包装掩盖实际出勤，给出有限实物配额",
+    "forbidden": "邀请不等于自动实体化任何商城物品",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U22",
+      "U31",
+      "U38"
+    ]
+  },
+  {
+    "id": "F18",
+    "title": "晋级资格",
+    "seed": "U31",
+    "payoff": [
+      "U37",
+      "M01"
+    ],
+    "answer": "资格、准备躯体、首次出勤身份转换三时点",
+    "forbidden": "U37不再偷添第七场上卷试炼",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U31",
+      "U37"
+    ]
+  },
+  {
+    "id": "F19",
+    "title": "蜜城既视感",
+    "seed": "U07",
+    "payoff": [
+      "D08",
+      "D34"
+    ],
+    "answer": "登记权与劳动剥夺的结构同构，非精确地下地图",
+    "forbidden": "符号不能代替测绘和权限",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U07",
+      "U08",
+      "U09",
+      "U10",
+      "D08"
+    ]
+  },
+  {
+    "id": "F20",
+    "title": "入门与普通退场的差别",
+    "seed": "U10",
+    "payoff": [
+      "U11",
+      "D07"
+    ],
+    "answer": "普通phase1死者真死；老师生还属于入门规则",
+    "forbidden": "不给已死罗芹/陶芸暗中回城",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U10",
+      "U11"
+    ]
+  },
+  {
+    "id": "F21",
+    "title": "林越的普通人生",
+    "seed": "U12",
+    "payoff": [
+      "M21",
+      "D07",
+      "D39"
+    ],
+    "answer": "有自己的婚姻、职业与愤怒；获得基础事实后选择暂留",
+    "forbidden": "不永远拿其不知情证明骗局正当",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U12",
+      "U36",
+      "M21",
+      "M28",
+      "M29",
+      "D07",
+      "D20",
+      "D31",
+      "D32",
+      "D39"
+    ]
+  },
+  {
+    "id": "F22",
+    "title": "编号与旧账号",
+    "seed": "U06",
+    "payoff": [
+      "D10"
+    ],
+    "answer": "显示号循环但内部含批次，现役不撞号；遗产记录可伪造来源",
+    "forbidden": "不用9号血统、前世继承或同时两活人同号",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U06",
+      "D10"
+    ]
+  },
+  {
+    "id": "F23",
+    "title": "雨夜与亲生父母",
+    "seed": "U01",
+    "payoff": [
+      "M29",
+      "D32"
+    ],
+    "answer": "父母真实存在且只为孩子取得备份；与养父母都是真关系",
+    "forbidden": "不把车窗手改成模板或蜂后",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U01",
+      "U12",
+      "M04",
+      "M28",
+      "M29",
+      "D06",
+      "D31",
+      "D32"
+    ]
+  },
+  {
+    "id": "F24",
+    "title": "窗与蓝色儿童画",
+    "seed": "U12",
+    "payoff": [
+      "D42"
+    ],
+    "answer": "养父母邻居家的画是真日常；蜂后最终请求进入而非占有监看",
+    "forbidden": "沈父画窗是另一段经历，非同一家或转世暗号",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U12",
+      "U32",
+      "U33",
+      "M05",
+      "D07",
+      "D39",
+      "D42"
+    ]
+  },
+  {
+    "id": "F25",
+    "title": "知情承担风险",
+    "seed": "U37",
+    "payoff": [
+      "M32",
+      "M36",
+      "D01"
+    ],
+    "answer": "同伴分别知道风险并有不同选择；转任失去旧生活",
+    "forbidden": "不能保留demo秘密拖朋友求死",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U37",
+      "U38",
+      "M01",
+      "M02",
+      "M10",
+      "M21",
+      "M23",
+      "M32",
+      "M35",
+      "M36",
+      "D01"
+    ]
+  },
+  {
+    "id": "F26",
+    "title": "贺骁的力量边界",
+    "seed": "U17",
+    "payoff": [
+      "D04",
+      "D38"
+    ],
+    "answer": "从先挡到衡量负重、替代轮值；强者也不能替弱者承诺牺牲",
+    "forbidden": "纯肉身不上五倍，文盲不等于没判断",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U17",
+      "U18",
+      "U23",
+      "U36",
+      "D02",
+      "D04",
+      "D38"
+    ]
+  },
+  {
+    "id": "F27",
+    "title": "姜黎的零价例外",
+    "seed": "U19",
+    "payoff": [
+      "U21",
+      "D13",
+      "D27"
+    ],
+    "answer": "不出卖朋友，承认推断错误并退款；公共危险信息不能全垄断",
+    "forbidden": "不是第一次见人就永远免费，也不卖假事实",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "U19",
+      "U20",
+      "U21",
+      "U22",
+      "D13",
+      "D27"
+    ]
+  },
+  {
+    "id": "F28",
+    "title": "真实躯体与AR差异",
+    "seed": "M02",
+    "payoff": [
+      "M14",
+      "D01",
+      "D06"
+    ],
+    "answer": "卡顿属工程；伤痕、执行件与生理连续性需互证",
+    "forbidden": "单凭痛觉细腻不能证明真实",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M02",
+      "M03",
+      "M09",
+      "D01",
+      "D06"
+    ]
+  },
+  {
+    "id": "F29",
+    "title": "偿还与退出",
+    "seed": "M04",
+    "payoff": [
+      "M33",
+      "D35",
+      "D38"
+    ],
+    "answer": "债务叙事掩盖永久劳力安排；部分奖励真实，完全自由不可达",
+    "forbidden": "不把一亿人当产能电池，工蜂供能才是劳作",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M04",
+      "M11",
+      "M31",
+      "M32",
+      "M33",
+      "D02",
+      "D35",
+      "D38"
+    ]
+  },
+  {
+    "id": "F30",
+    "title": "程序与证据权",
+    "seed": "M06",
+    "payoff": [
+      "M17",
+      "M33",
+      "D36",
+      "D37"
+    ],
+    "answer": "异议材料、同意与复核有实际程序；最后成为试行条款",
+    "forbidden": "协议不是只给主角方便",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M06",
+      "M07",
+      "M08",
+      "M16",
+      "M17",
+      "M33",
+      "D19",
+      "D20",
+      "D36",
+      "D37"
+    ]
+  },
+  {
+    "id": "F31",
+    "title": "地下传递",
+    "seed": "M09",
+    "payoff": [
+      "M28",
+      "D16",
+      "D18"
+    ],
+    "answer": "现实痕迹与低带宽中继，存在断链；来自真实逃逸者",
+    "forbidden": "金豆不是系统物理看不见的材质",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M09",
+      "M27",
+      "M28",
+      "D16",
+      "D17",
+      "D18"
+    ]
+  },
+  {
+    "id": "F32",
+    "title": "失败后的记忆磨损",
+    "seed": "M10",
+    "payoff": [
+      "M11",
+      "D37"
+    ],
+    "answer": "处罚不是不可避免生理现象；暂停制度但既有损失不自动退款",
+    "forbidden": "不能无伤移脑或清空人格重新来过",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M10",
+      "M11",
+      "D37"
+    ]
+  },
+  {
+    "id": "F33",
+    "title": "能耗与散热",
+    "seed": "M12",
+    "payoff": [
+      "M30",
+      "D27",
+      "D33"
+    ],
+    "answer": "晶体主力、缓冲有限、散热不能省；多个小改进合成有限方案",
+    "forbidden": "没有单项技术凭空补全所有缺口",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M12",
+      "M13",
+      "M30",
+      "M34",
+      "D08",
+      "D26",
+      "D27",
+      "D33"
+    ]
+  },
+  {
+    "id": "F34",
+    "title": "类猿文明",
+    "seed": "M18",
+    "payoff": [
+      "D13",
+      "D15"
+    ],
+    "answer": "工序、生活器物、修正翻译与毁灭层互证",
+    "forbidden": "不是用一块碑证明宇宙普遍杀戮法则",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M18",
+      "M19",
+      "M20",
+      "M25",
+      "D11",
+      "D12",
+      "D13",
+      "D14",
+      "D15"
+    ]
+  },
+  {
+    "id": "F35",
+    "title": "复制人与独立主体",
+    "seed": "M22",
+    "payoff": [
+      "D23",
+      "D25",
+      "D41"
+    ],
+    "answer": "同源记忆不等于共享未来；陆照拥有拒绝合并权",
+    "forbidden": "不是备用命、情敌或临时战斗道具",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M22",
+      "M23",
+      "D23",
+      "D25",
+      "D41"
+    ]
+  },
+  {
+    "id": "F36",
+    "title": "技术优势的代价",
+    "seed": "M25",
+    "payoff": [
+      "M27",
+      "M31",
+      "D33"
+    ],
+    "answer": "局部8—12%节流、适配退款、售后；合作时让渡独占",
+    "forbidden": "不压倒蜂后全部技术",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M25",
+      "M27",
+      "M31",
+      "M34",
+      "D05",
+      "D09",
+      "D27",
+      "D33"
+    ]
+  },
+  {
+    "id": "F37",
+    "title": "正常通关也不自由",
+    "seed": "M35",
+    "payoff": [
+      "D01"
+    ],
+    "answer": "唯一正常通过者（祁霁，主角让席）仍行政转任，是程序和政策两层证据",
+    "forbidden": "不能撤掉这次真实验收结果",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "M35",
+      "M36",
+      "D01"
+    ]
+  },
+  {
+    "id": "F38",
+    "title": "队内权利",
+    "seed": "D02",
+    "payoff": [
+      "D09",
+      "D37",
+      "D41"
+    ],
+    "answer": "不等分权力也须程序、退出与补偿；队长可被替换",
+    "forbidden": "不是人人以后必须永远跟陆沉",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "D02",
+      "D04",
+      "D09",
+      "D36",
+      "D37",
+      "D41"
+    ]
+  },
+  {
+    "id": "F39",
+    "title": "伤残者的价值",
+    "seed": "D04",
+    "payoff": [
+      "D30",
+      "D38"
+    ],
+    "answer": "救助、债与长期生活分开；仇明活着退出仍有生存权",
+    "forbidden": "不能用再死一次证明他有价值",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "D04",
+      "D05",
+      "D10",
+      "D17",
+      "D30",
+      "D36",
+      "D38"
+    ]
+  },
+  {
+    "id": "F40",
+    "title": "地下路径",
+    "seed": "D08",
+    "payoff": [
+      "D29",
+      "D34"
+    ],
+    "answer": "泵管负载、旧图、补测与有限许可共同建立道路",
+    "forbidden": "不能凭蜜城布局猜中万能秘密门",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "D08",
+      "D14",
+      "D29",
+      "D31",
+      "D34"
+    ]
+  },
+  {
+    "id": "F41",
+    "title": "反抗者的分歧",
+    "seed": "D16",
+    "payoff": [
+      "D28",
+      "D33",
+      "D36"
+    ],
+    "answer": "三路诉求真实，方法可被批评；追究具体侵害",
+    "forbidden": "激进不是无缘由疯狂，温和也不是必对",
+    "status": "待种",
+    "open_end": false,
+    "appearances": [
+      "D16",
+      "D18",
+      "D19",
+      "D27",
+      "D28",
+      "D33"
+    ]
+  },
+  {
+    "id": "F42",
+    "title": "迟客的知情范围",
+    "seed": "D24",
+    "payoff": [
+      "D29",
+      "D31"
+    ],
+    "answer": "作者定为蜂后男性分裂体，读者身份留白；局部帮助有成本",
+    "forbidden": "不给全知身份或复制最高权限",
+    "status": "待种",
+    "open_end": true,
+    "appearances": [
+      "D24",
+      "D29",
+      "D31"
+    ]
+  },
+  {
+    "id": "F-7-1",
+    "title": "末席主题镜像",
+    "seed": "U05",
+    "payoff": [
+      "D23"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "U02",
+      "U03",
+      "U05"
+    ]
+  },
+  {
+    "id": "F-7-2",
+    "title": "一帧之后的触感",
+    "seed": "U14",
+    "payoff": [
+      "M14",
+      "D22"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "U14"
+    ]
+  },
+  {
+    "id": "F-7-3",
+    "title": "静音后的余感",
+    "seed": "U21",
+    "payoff": [
+      "M14",
+      "M26"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "U21"
+    ]
+  },
+  {
+    "id": "F-7-4",
+    "title": "取消目的地的余波",
+    "seed": "U27",
+    "payoff": [
+      "M26"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "U24",
+      "U27"
+    ]
+  },
+  {
+    "id": "F-7-5",
+    "title": "0.3秒错误归因",
+    "seed": "U30",
+    "payoff": [
+      "D03"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "U29",
+      "U30",
+      "D03"
+    ]
+  },
+  {
+    "id": "F-7-6",
+    "title": "AR负荷阴性对照",
+    "seed": "M03",
+    "payoff": [
+      "M14"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "M03"
+    ]
+  },
+  {
+    "id": "F-7-7",
+    "title": "关显示后仍在的响应",
+    "seed": "M14",
+    "payoff": [
+      "M26"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "M14"
+    ]
+  },
+  {
+    "id": "F-7-8",
+    "title": "失败片操作次序",
+    "seed": "M19",
+    "payoff": [
+      "M24"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "M19"
+    ]
+  },
+  {
+    "id": "F-7-9",
+    "title": "道德触发的反证",
+    "seed": "M24",
+    "payoff": [
+      "M24"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "M24"
+    ]
+  },
+  {
+    "id": "F-7-10",
+    "title": "三接口受控异常",
+    "seed": "M26",
+    "payoff": [
+      "D22"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "M26"
+    ]
+  },
+  {
+    "id": "F-7-11",
+    "title": "长时低功率成本",
+    "seed": "M30",
+    "payoff": [
+      "D26"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "M30"
+    ]
+  },
+  {
+    "id": "F-7-12",
+    "title": "古代工序记号",
+    "seed": "D12",
+    "payoff": [
+      "D22"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "D12"
+    ]
+  },
+  {
+    "id": "F-7-13",
+    "title": "独立主体复验",
+    "seed": "D22",
+    "payoff": [
+      "D22"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "D21",
+      "D22"
+    ]
+  },
+  {
+    "id": "F-7-14",
+    "title": "镜像经历分叉",
+    "seed": "D23",
+    "payoff": [
+      "D25"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "D23",
+      "D25"
+    ]
+  },
+  {
+    "id": "F-7-15",
+    "title": "放大实验停止",
+    "seed": "D26",
+    "payoff": [
+      "D34"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": false,
+    "appearances": [
+      "D26"
+    ]
+  },
+  {
+    "id": "F-7-16",
+    "title": "深空与残差不乱连因果",
+    "seed": "D40",
+    "payoff": [
+      "D40"
+    ],
+    "status": "待种",
+    "answer": "详见《第七伏笔链》同编号；没有通关特权。",
+    "forbidden": "不得跳过对照、将象征当物证。",
+    "open_end": true,
+    "appearances": [
+      "D40"
+    ]
+  }
+]

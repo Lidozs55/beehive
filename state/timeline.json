@@ -1,0 +1,99 @@
+{
+  "status": "planned",
+  "clocks": {
+    "Vyear_Ryear_ratio": 0.5,
+    "local_day_earth_hours": 32,
+    "trial_week_hours": 168,
+    "max_extended_trial_hours": 504
+  },
+  "phase_entry_weeks": {
+    "陆沉": 0,
+    "沈知薇": 0,
+    "贺骁": -12,
+    "姜黎": -8,
+    "周衡": -18,
+    "文青": -16
+  },
+  "phase2_first_weeks": {
+    "陆沉": 25,
+    "沈知薇": 29,
+    "贺骁": 29,
+    "姜黎": 29,
+    "周衡": 23,
+    "文青": 25
+  },
+  "terminal_week": 77,
+  "maximum_service_Vweeks": 104,
+  "middle_windows": [
+    {
+      "week": 25,
+      "kind": "real",
+      "name": "灰砾场"
+    },
+    {
+      "week": 29,
+      "kind": "virtual",
+      "name": "预算听证"
+    },
+    {
+      "week": 33,
+      "kind": "real",
+      "name": "霜线"
+    },
+    {
+      "week": 37,
+      "kind": "virtual",
+      "name": "余温船坞"
+    },
+    {
+      "week": 41,
+      "kind": "real",
+      "name": "磁岩"
+    },
+    {
+      "week": 45,
+      "kind": "virtual",
+      "name": "无人接诊"
+    },
+    {
+      "week": 49,
+      "kind": "real",
+      "name": "符文峡谷"
+    },
+    {
+      "week": 53,
+      "kind": "virtual",
+      "name": "备份市场"
+    },
+    {
+      "week": 57,
+      "kind": "real",
+      "name": "母树潮滩"
+    },
+    {
+      "week": 61,
+      "kind": "virtual",
+      "name": "返还馆"
+    },
+    {
+      "week": 65,
+      "kind": "real",
+      "name": "矿脉暗层"
+    },
+    {
+      "week": 69,
+      "kind": "virtual",
+      "name": "保全庭"
+    },
+    {
+      "week": 73,
+      "kind": "real",
+      "name": "空巢猎场"
+    },
+    {
+      "week": 77,
+      "kind": "virtual",
+      "name": "逆潮站"
+    }
+  ]
+}
