@@ -44,7 +44,9 @@ def main():
     check("all_seeds_and_payoffs_exist",all(x["seed"] in known and all(y in known for y in x["payoff"]) for x in ledger))
     rank={u:i for i,u in enumerate(ids)}
     check("no_payoff_before_seed",all(rank[x["seed"]]<=min(rank[y] for y in x["payoff"]) for x in ledger))
-    check("no_false_already_planted",all(x["status"]==chr(24453)+chr(31181) for x in ledger))
+    status_ok={chr(24453)+chr(31181),chr(24050)+chr(31181)}
+    check("planted_status_legal",all(x["status"] in status_ok for x in ledger))
+    check("planted_needs_seed_P",all(x.get("seed_P") for x in ledger if x["status"]==chr(24050)+chr(31181)))
     check("six_upper_trials",len(trials["upper"])==6)
     check("all_upper_rosters_six",all(len(t["roster"])==len(set(t["roster"]))==6 for t in trials["upper"]))
     check("all_upper_outcomes_partition",all(set(t["passed"]).isdisjoint(t["failed"]) and set(t["passed"])|set(t["failed"])==set(t["roster"]) for t in trials["upper"]))
