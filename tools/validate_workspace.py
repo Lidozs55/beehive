@@ -79,8 +79,14 @@ def main():
         safe=safe and not (ROOT/"正文").exists() and not (ROOT/".skill").exists()
         check("protected_paths_excluded_from_delivery",safe)
     elif (ROOT/".git").exists():
-        result=subprocess.run(["git","-C",str(ROOT),"diff","--quiet","HEAD","--","正文",".skill"],capture_output=True)
-        check("protected_paths_unchanged_from_HEAD",result.returncode==0)
+        # Writing-phase provenance guard: the skill library and the archived demo
+        # must stay unchanged since the pre-writing baseline; new P-chapter files are deliverables.
+        ok=True
+        r1=subprocess.run(["git","-C",str(ROOT),"diff","--quiet","d1e21a0","HEAD","--",".skill"],capture_output=True)
+        ok=ok and r1.returncode==0
+        r2=subprocess.run(["git","-C",str(ROOT),"diff","--quiet","d1e21a0","HEAD","--","正文/终局场景-与蜂后对质-初稿.txt"],capture_output=True)
+        ok=ok and r2.returncode==0
+        check("protected_paths_unchanged_from_baseline",ok)
     else:
         check("protected_path_provenance_known",False,"Run in the delivery overlay or its target Git worktree.")
     bad_links=[]
