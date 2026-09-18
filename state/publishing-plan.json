@@ -1,2810 +1,2810 @@
 [
- {
-  "id": "P001",
-  "unit": "U01",
-  "part": 1,
-  "event": "生日聚餐中，陆沉发现灾难当晚无人有亲历记忆；养父母领他回家的经过记得清楚，他的雨夜童年却没有第二个见证人。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P002",
-  "unit": "U01",
-  "part": 2,
-  "event": "林越把不升学的决定说清；陆沉想劝又收住，第一次面对与自己不同但完整的人生计划。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P003",
-  "unit": "U01",
-  "part": 3,
-  "event": "沈知薇递来补交作业清单，透露同日生日；凌晨04:00日常被切断，没有系统邀请。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P004",
-  "unit": "U02",
-  "part": 1,
-  "event": "六人在陌生生日宴醒来，成年身体却被NPC父母当作兄姐；陈闻礼先确认每个人能否正常呼吸。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P005",
-  "unit": "U02",
-  "part": 2,
-  "event": "守烛建议与任务原文不完全相同，陆沉保留原文，沈知薇开始逐项记录可验证事项。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P006",
-  "unit": "U02",
-  "part": 3,
-  "event": "小圆数餐具，发现父母准备了他们不愿承认的另一套餐具；熄烛后的重置发生。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P007",
-  "unit": "U03",
-  "part": 1,
-  "event": "陆沉用错位摆放测试循环，证明物体复位而人的记忆没有完全复位，不能把试错当免费命。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P008",
-  "unit": "U03",
-  "part": 2,
-  "event": "周婶试探许愿，价目明确却比她想象的贵；佟哥想把支付转给别人，权限拒绝。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P009",
-  "unit": "U03",
-  "part": 3,
-  "event": "沈知薇发现完整姓名分散在不同记录里；小圆记住了每轮房屋最不一致的角落。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P010",
-  "unit": "U04",
-  "part": 1,
-  "event": "锁门后有关键标签，拿钥匙的正规方法来不及；沈知薇决定付一段明确的家庭记忆换入口。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P011",
-  "unit": "U04",
-  "part": 2,
-  "event": "陆沉尝试替她支付被拒，只能共同评估范围，不能把她的决定改写成他英雄救美。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P012",
-  "unit": "U04",
-  "part": 3,
-  "event": "她拿到情报，却认不出笔记里父亲曾说的一句话；陈闻礼为保护小寿星连续付款，进入退出阈值。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P013",
-  "unit": "U05",
-  "part": 1,
-  "event": "六份关系与第七份礼物对齐，陆沉重建被剪掉的家庭结构，陈闻礼留下可核对的最后一处记号。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P014",
-  "unit": "U05",
-  "part": 2,
-  "event": "周婶、小圆、佟哥相继退出；他们的作用留在证据链上，而不是为主角计数的四具尸体。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P015",
-  "unit": "U05",
-  "part": 3,
-  "event": "陆沉与沈知薇让父母和闻小满完成双方身份确认，生日真正结束；他们不知道退出者会去哪。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P016",
-  "unit": "U06",
-  "part": 1,
-  "event": "面板与论坛开放；两人分别描述界面验证共同经历，不能从彼此瞳孔看见屏幕。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P017",
-  "unit": "U06",
-  "part": 2,
-  "event": "陆沉搜索退出者没有结果；商店能重置身体却不退还沈的记忆，他第一次分清奖励与损失。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P018",
-  "unit": "U06",
-  "part": 3,
-  "event": "周一早晨在走廊确认彼此仍在，双方约定交换规则原文而非替对方安排选择。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P019",
-  "unit": "U07",
-  "part": 1,
-  "event": "两人交换试炼原文笔记，沈知薇把论坛沉帖检索做成可复核清单；过期编号与断掉的回话登记为待查项，不提前判定死者去向。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P020",
-  "unit": "U07",
-  "part": 2,
-  "event": "林越的农业志愿进入办理流程，陆沉承认帮不上具体忙；养父母再问失眠，他交出部分真话，关系没有一键修复。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P021",
-  "unit": "U07",
-  "part": 3,
-  "event": "四个平常周什么都没有发生；两人为下一次04:00做具体准备——约好相认口令与只有本人能答对的核对问题，第一次主动谈论被切走该怎么办。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P022",
-  "unit": "U08",
-  "part": 1,
-  "event": "陆沉和五名陌生人入职，任务要求到花园登记；赵成章把这里当真正的上升通道。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P023",
-  "unit": "U08",
-  "part": 2,
-  "event": "劳动印章分配并非按工时，罗芹帮人换班反而更难离开，具体制度制造而非口号说明压迫。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P024",
-  "unit": "U08",
-  "part": 3,
-  "event": "陆沉发现旧地图花园编号与顶层招牌不符，但还不能证明出口方向。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P025",
-  "unit": "U09",
-  "part": 1,
-  "event": "陆沉替罗芹分担劳动，只拿到更高的下一轮配额；第一次帮助没有带来系统奖励。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P026",
-  "unit": "U09",
-  "part": 2,
-  "event": "赵成章说服其他人接受稳定，穆乔反对却拿不出离开的办法，阵营各有真实吸引力。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P027",
-  "unit": "U09",
-  "part": 3,
-  "event": "罗芹以名字使用权替穆乔换印章，陆沉来不及阻止；代价发生后不能靠退货挽回。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P028",
-  "unit": "U10",
-  "part": 1,
-  "event": "陆沉核对坡度、工时与登记编号，提出地下北庭路线；这不是仅凭觉醒就看穿骗局。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P029",
-  "unit": "U10",
-  "part": 2,
-  "event": "穆乔必须承认自己用过罗芹付出的印章，否则验收材料不完整；幸存者被迫对代价署名。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P030",
-  "unit": "U10",
-  "part": 3,
-  "event": "许简和邵开选择同行，赵成章选择留下；陆沉不能以自己认为正确强拽对方走。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P031",
-  "unit": "U11",
-  "part": 1,
-  "event": "四人绕过交名授权，抵达真实花园节点并提交未注销身份；主目标按原谓词兑现。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P032",
-  "unit": "U11",
-  "part": 2,
-  "event": "系统确认赵成章与罗芹退出，陆沉仍误以为可能像老师那样回家；不急于旁白告诉答案。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P033",
-  "unit": "U11",
-  "part": 3,
-  "event": "结算前04:00全城同步微笑，穆乔把罗芹的名字补进自己的记录，拒绝把付出当没发生。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P034",
-  "unit": "U12",
-  "part": 1,
-  "event": "陆沉按真实学校信息找到陈闻礼，老师不认识他，却仍会先把坏了的椅子让给学生换走。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P035",
-  "unit": "U12",
-  "part": 2,
-  "event": "确认入门退出者活着，不能推出普通试炼退出者也活着；两人的第一份粗糙安全假说被推翻。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P036",
-  "unit": "U12",
-  "part": 3,
-  "event": "沈知薇帮助制定区别记录，姜老板的收费帖把不确定性明码标出，论坛第一次像真正的社会。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P037",
-  "unit": "U13",
-  "part": 1,
-  "event": "养父母聚餐，弟弟画了一扇蓝色的窗；陆沉想问亲生母亲，又怕让养母觉得这些年都不算数。养父母邻居家挂着一幅蓝色儿童画，窗被涂得不方正；先作为生活细节，不解释象征。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P038",
-  "unit": "U13",
-  "part": 2,
-  "event": "林越说清农业、婚姻与维修岗位的打算，不当一个供主角怜悯的快乐傻子。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P039",
-  "unit": "U13",
-  "part": 3,
-  "event": "陆沉把迟到的回信寄出；与沈互换考前计划，不把试炼关系直接当作恋爱承诺。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P040",
-  "unit": "U14",
-  "part": 1,
-  "event": "考试考真实掌握而非纯应试刷题，陆沉的危机冷静有效，过程成绩仍让他付散漫的代价。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P041",
-  "unit": "U14",
-  "part": 2,
-  "event": "沈知薇在实验方案题里坚持说明统计限制，少拿即时分数但保住自己的证据纪律。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P042",
-  "unit": "U14",
-  "part": 3,
-  "event": "笔试结果带来专业选择，最终录取仍待批次；两人在考场外互相等候而不表白。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P043",
-  "unit": "U15",
-  "part": 1,
-  "event": "贺骁、周衡与三名陌生人各自被镜面指控；陆沉记录NPC动作结束后迟到的触感。指路NPC递来一块路牌，陆沉接过后察觉触感在动作结束后短暂滞留；线索有实际输入来源。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P044",
-  "unit": "U15",
-  "part": 2,
-  "event": "贺骁的武力不能打破针对自己的卷宗，周衡知道旧流程却隐瞒了一处风险。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P045",
-  "unit": "U15",
-  "part": 3,
-  "event": "陆沉发现原始事件与动机推断被混成一句话，提出先找证词而非先认罪。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P046",
-  "unit": "U16",
-  "part": 1,
-  "event": "何竞打碎证据，孙逸躲避身份核验，时间压缩让两条错误路径各有后果。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P047",
-  "unit": "U16",
-  "part": 2,
-  "event": "陆沉承认阴暗念头的存在，却拒绝把未发生的伤害当成既成事实，保持人物底线。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P048",
-  "unit": "U16",
-  "part": 3,
-  "event": "贺骁第一次停拳听人说完；周衡交出曾藏住的风险资料，付出被怀疑的代价。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P049",
-  "unit": "U17",
-  "part": 1,
-  "event": "众人被幻境分隔，陆沉用各自刚刚共同确认的事实定位人，而非把真名当咒语。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P050",
-  "unit": "U17",
-  "part": 2,
-  "event": "梁萤主动纠正自己的伪证，换来孙逸路线失败的消息，救人已经晚了。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P051",
-  "unit": "U17",
-  "part": 3,
-  "event": "贺骁护住临时队伍但按计划撤退，不再用硬挡证明自己强；何竞失去最后核验时间。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P052",
-  "unit": "U18",
-  "part": 1,
-  "event": "四人各自完成陈述，系统接受有边界的责任而不是无限认罪；镜城的规则得到可验证解释。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P053",
-  "unit": "U18",
-  "part": 2,
-  "event": "技能破障入账，孙与何的死亡也进入记录；主角拒绝把这场只写成收益。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P054",
-  "unit": "U18",
-  "part": 3,
-  "event": "周衡留下联系方式用于结算争议，贺骁正式问陆沉能否交换经验，而不是偶遇强行组队。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P055",
-  "unit": "U19",
-  "part": 1,
-  "event": "陆沉按约到训练馆取贺骁手中的动作记录，不把见面写成无因的巧合。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P056",
-  "unit": "U19",
-  "part": 2,
-  "event": "论坛指控有部分可查依据，四人公开能公开的时序，保护死者私密内容；姜黎注意到这笔成本。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P057",
-  "unit": "U19",
-  "part": 3,
-  "event": "沈知薇不为自己没参加的镜城作证，只帮检查论证；她第一次明确指出陆沉过度解释的漏洞。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P058",
-  "unit": "U20",
-  "part": 1,
-  "event": "开场即公布通信收费，姜黎卖一条有用但不完整的路线，文青先检查面板离线条件。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P059",
-  "unit": "U20",
-  "part": 2,
-  "event": "于沛听觉优势消失，改用手掌辨振动；陆沉不再能把一切交给自己敏锐的耳朵。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P060",
-  "unit": "U20",
-  "part": 3,
-  "event": "大家初步分声额，杜垣反对公开自己的余量，陶芸担心不够照顾受伤者。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P061",
-  "unit": "U21",
-  "part": 1,
-  "event": "一次付费私聊真切消耗声核，堵上原稿无限免费沟通的漏洞；短纸条与手势进入战术。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P062",
-  "unit": "U21",
-  "part": 2,
-  "event": "姜黎统计路线，文青试接分时供能，两人都需要他人的配合才能验证。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P063",
-  "unit": "U21",
-  "part": 3,
-  "event": "杜垣藏核，陶芸返回拿遗物；一条本可安全的撤离路线因此错过窗口。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P064",
-  "unit": "U22",
-  "part": 1,
-  "event": "姜黎把尚未卖出的安全窗口免费交给同行者；她的选择有效但没有神秘地逆转全部危险。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P065",
-  "unit": "U22",
-  "part": 2,
-  "event": "杜与陶回不来，陆沉必须承认地面震动只覆盖局部，不能假装自己早知所有位置。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P066",
-  "unit": "U22",
-  "part": 3,
-  "event": "关闭输入后出现的短暂余感与危机无直接解题关系，被单独写进记录等待排查。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P067",
-  "unit": "U23",
-  "part": 1,
-  "event": "文青分路、于沛辨节律、姜黎安排交接、陆沉保护节点，四人把碎核接成连续输入。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P068",
-  "unit": "U23",
-  "part": 2,
-  "event": "城市恢复声音，姜黎不接受把伤亡写成自己一次免费就赎清；关系因此更深而非更轻。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P069",
-  "unit": "U23",
-  "part": 3,
-  "event": "等级与装备资格增长，真实死者仍只有杜与陶，名册不再出现新人丙。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P070",
-  "unit": "U24",
-  "part": 1,
-  "event": "贺骁替被冤同学出头后主动提交对自己不利的监控段，陆沉帮助完整还原，而非黑入删除打人证据。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P071",
-  "unit": "U24",
-  "part": 2,
-  "event": "姜家金店举报案显示黄金不等于不可追踪，姜黎守住客户事实与自己的隐私边界。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P072",
-  "unit": "U24",
-  "part": 3,
-  "event": "沈与贺、姜第一次在这次约定的碰面中正式认识；不同专业带来的争执比无因聚餐更有效。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P073",
-  "unit": "U25",
-  "part": 1,
-  "event": "陆沉与沈知薇意外重复同场，先记录概率异常，不立即说天意或幕后安排恋爱。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P074",
-  "unit": "U25",
-  "part": 2,
-  "event": "首位NPC以为到家自愿下车，记忆衰退暴露代价；六位玩家开始检查车票而非争抢牺牲对象。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P075",
-  "unit": "U25",
-  "part": 3,
-  "event": "顾环找到服务站循环，乔慎协调读票，程业藏起一页重要附注。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P076",
-  "unit": "U26",
-  "part": 1,
-  "event": "沈知薇提议承担下一次下车，被同伴指出这是替大家决定该欠谁一条命；她认真修正方案。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P077",
-  "unit": "U26",
-  "part": 2,
-  "event": "石铮放弃硬闯司机室，改查检修图；陆沉核验相同字迹之外的时间戳证据。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P078",
-  "unit": "U26",
-  "part": 3,
-  "event": "乔慎把NPC的愿望逐个写出来，发现取消一趟行程不等于取消一个人的未来。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P079",
-  "unit": "U27",
-  "part": 1,
-  "event": "沈知薇向赶回家的父亲解释错误路线，允许他反对，直到顾环提供他能亲自核对的记录。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P080",
-  "unit": "U27",
-  "part": 2,
-  "event": "程业试图卖最后一票引发失衡；陆沉救他，但要求他承担真实警戒责任，不一笔勾销。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P081",
-  "unit": "U27",
-  "part": 3,
-  "event": "全体逐人撤销的是本次指令，不是对家的愿望；沈的高光是尊重选择而非突然免费。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P082",
-  "unit": "U28",
-  "part": 1,
-  "event": "剩余动作是完成车内断开的验收联锁；六人的技能与NPC自愿协作共同让返程执行。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P083",
-  "unit": "U28",
-  "part": 2,
-  "event": "主目标结束运输兑现，六名玩家生还；被移除的NPC记录被保留，不写成什么都没发生。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P084",
-  "unit": "U28",
-  "part": 3,
-  "event": "两人第一次牵手，承认同场原因未知但相互选择已经真实；本体感余波另记，不拿来救场。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P085",
-  "unit": "U29",
-  "part": 1,
-  "event": "六人护送信标，仇明化身出场；陆沉怀疑对方像真人，只承认这是一种判断而非心跳证明。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P086",
-  "unit": "U29",
-  "part": 2,
-  "event": "五位新人物各完成一次运输、标记、维修或挡险，主线不是为独角戏空转。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P087",
-  "unit": "U29",
-  "part": 3,
-  "event": "仇明夺信标，却留下可达备用路线，陆沉发现他的压迫在迫使人观察接口。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P088",
-  "unit": "U30",
-  "part": 1,
-  "event": "六人利用备用通路夺回信标并取得主线回执，五人有权离场。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P089",
-  "unit": "U30",
-  "part": 2,
-  "event": "系统发布独立附加挑战及一次保护；陆沉自己决定继续，不把同伴当风险抵押。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P090",
-  "unit": "U30",
-  "part": 3,
-  "event": "他将信标加入能量换路测量，发现0.3秒空窗，但还缺能逼出那次换路的行动。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P091",
-  "unit": "U31",
-  "part": 1,
-  "event": "陆沉用实物和程序规则协同造成接口过载，迫使强敌选择防护或保住信标。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P092",
-  "unit": "U31",
-  "part": 2,
-  "event": "仇明最后露侧翼是有意的，但主角把他逼到选择点不在预设脚本中。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P093",
-  "unit": "U31",
-  "part": 3,
-  "event": "化身消失前留下再见之约；主角获得真实物品提领权，失眠与情绪反噬同步加深。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P094",
-  "unit": "U32",
-  "part": 1,
-  "event": "五位主线生还者的公开证言引发论坛轰动，陆沉不把他们的贡献抹去。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P095",
-  "unit": "U32",
-  "part": 2,
-  "event": "姜黎依据公开时序提出教官可能未死，明确标注推断不是内幕消息。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P096",
-  "unit": "U32",
-  "part": 3,
-  "event": "晋级资格开启，但必须通过身体适配与实物配置；主角不能此刻就在虚拟桌上重刻真实符文。",
-  "target_chars": 3000,
-  "status": "written"
- },
- {
-  "id": "P097",
-  "unit": "U33",
-  "part": 1,
-  "event": "陆沉因迟到的情绪反应连正常骑行都无法集中，沈陪同但不把亲近当治疗。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P098",
-  "unit": "U33",
-  "part": 2,
-  "event": "贺骁从公开战报学习时问起五位运输者，主角第一次能准确说出他们的名字。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P099",
-  "unit": "U33",
-  "part": 3,
-  "event": "正式录取通知到达，搬家准备把日常从试炼余波中重新拉回来。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P100",
-  "unit": "U34",
-  "part": 1,
-  "event": "四人因不同专业录取同校，不因工蜂身份获特殊训练班；跨学科导论成为合法相处场。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P101",
-  "unit": "U34",
-  "part": 2,
-  "event": "养父母送别，弟弟的蓝窗画留在太湖；陆沉参与公开资料整理，首次看到0号实验室的封存索引。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P102",
-  "unit": "U34",
-  "part": 3,
-  "event": "沈知薇作为低年级观察助理进组，不直接独立行医；她提出青壮年异常事件记录课题。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P103",
-  "unit": "U35",
-  "part": 1,
-  "event": "沈收集自愿提供的家庭记录，发现突发死亡报告常在相同批次签发。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P104",
-  "unit": "U35",
-  "part": 2,
-  "event": "导师指出行政批量签发足以解释这一现象，她主动撤回过强结论，避免天才靠错误统计出真相。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P105",
-  "unit": "U35",
-  "part": 3,
-  "event": "陆沉的调度优化也被退回，两人的问题暂时并不同源，不能强行拼成系统阴谋。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P106",
-  "unit": "U36",
-  "part": 1,
-  "event": "二人把死亡发生时间与报告签发时间分开，重新设计观察；缺数据就是缺数据。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P107",
-  "unit": "U36",
-  "part": 2,
-  "event": "陆沉查到退回课题牵涉未公开的服务连续性需求，不再只把老师写成压天才的坏人。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P108",
-  "unit": "U36",
-  "part": 3,
-  "event": "姜黎指出连续调查已经提高风控等级，明确拒绝提供没有来源的全城数据。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P109",
-  "unit": "U37",
-  "part": 1,
-  "event": "四人完成一次面向低成本医疗调度的公开作业，各自解决一项主角无法包办的问题。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P110",
-  "unit": "U37",
-  "part": 2,
-  "event": "贺骁面对生活档封顶，选择不向普通赛场偷偷使用额外能力；姜黎第一次把朋友纳入无价账。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P111",
-  "unit": "U37",
-  "part": 3,
-  "event": "林越寄来普通农业信，沈提出周末看展，生活值得维护的原因直接呈现。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P112",
-  "unit": "U38",
-  "part": 1,
-  "event": "这是能力与库存适配复核，不是第七场单人试炼；系统只重述已获晋级资格和出勤要求。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P113",
-  "unit": "U38",
-  "part": 2,
-  "event": "陆沉比沈和贺早一个任务窗口进入新阶段；他不能把自己拿到的全部物资直接复制给他们。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P114",
-  "unit": "U38",
-  "part": 3,
-  "event": "二人约定失败也要如实记录，不为让对方放心而删掉风险，给中卷的知情承诺打底。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P115",
-  "unit": "U39",
-  "part": 1,
-  "event": "天台谈话把迁移调查分为资料与证据两线，贺和姜只参加自己同意的部分。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P116",
-  "unit": "U39",
-  "part": 2,
-  "event": "陆沉与沈承认感情在推进，但不在卷末突变热恋；第一次牵手已发生，不再重复首触。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P117",
-  "unit": "U39",
-  "part": 3,
-  "event": "匿名高权限操作将陆沉标为可培养的协调者，读者只见权限动作，不提前获全套蜂后真相。",
-  "target_chars": 3000,
-  "status": "planned"
- },
- {
-  "id": "P118",
-  "unit": "M01",
-  "part": 1,
-  "event": "陆沉领到实体刀具、有限弹药、初等接口板与仇明符文；提领权第一次变成有重量的东西。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P119",
-  "unit": "M01",
-  "part": 2,
-  "event": "他以为熟练动作可以照搬，发现1.15g、缺氧与真实背负同时压缩行动，先按低配额完成。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P120",
-  "unit": "M01",
-  "part": 3,
-  "event": "AR在快速转头时错位，陆沉记录而不宣布世界真假；首枚晶体显示运输损耗。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P121",
-  "unit": "M02",
-  "part": 1,
-  "event": "猎物储量诱人，返回路线却在涨温；主角第一次主动放弃超额奖励保留水和负重余量。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P122",
-  "unit": "M02",
-  "part": 2,
-  "event": "配发板有响应而他不会正确引导，战斗仍靠地形和工具，不能首次出勤就精神碾压。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P123",
-  "unit": "M02",
-  "part": 3,
-  "event": "他完成配额并申请缓存点撤回，发现完成早的人并不在城市多出几天。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P124",
-  "unit": "M03",
-  "part": 1,
-  "event": "接入后的饭菜、睡眠和街风与秘境各有差别，但差别只能支持两套呈现系统。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P125",
-  "unit": "M03",
-  "part": 2,
-  "event": "他调节模拟界面负荷复现延迟，得到一次重要阴性结论：卡顿本身不证明物理世界。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P126",
-  "unit": "M03",
-  "part": 3,
-  "event": "沈尚未出勤，他尊重她只听自己愿意听的风险，不以领先者身份替她决定。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P127",
-  "unit": "M04",
-  "part": 1,
-  "event": "体能维护与课程冲突，陆沉发现“同一套角色属性”仍需要看不见的维护时间。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P128",
-  "unit": "M04",
-  "part": 2,
-  "event": "贺骁、姜黎与沈知薇核对晋级说明，准备各自W29窗口的首次真实出勤；互换的是已结束的记录，不是跨场即时指挥。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P129",
-  "unit": "M04",
-  "part": 3,
-  "event": "周衡与文青加入定期资料核对，六人关系由有用的小事变稳，而非一次饭局自动生死与共。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P130",
-  "unit": "M05",
-  "part": 1,
-  "event": "沈向家人求证丢失记忆，父亲讲出停电楼道的事实；她知道了经过，却无法重新拥有当时的安心。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P131",
-  "unit": "M05",
-  "part": 2,
-  "event": "她拒绝一项声称能完整返还记忆的收费服务，把记录和真正的体验分开。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P132",
-  "unit": "M05",
-  "part": 3,
-  "event": "父女创造一次新的共同经历，陆沉不把技术解答当唯一安慰；家庭线独立完成小高潮。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P133",
-  "unit": "M06",
-  "part": 1,
-  "event": "陆沉与五名陌生参与者为三座模拟社区分配限额，目标是让可验证的基础生活指标达标。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P134",
-  "unit": "M06",
-  "part": 2,
-  "event": "最漂亮的总量优化会让一个小社区失去药品运输，局部损失被平均数遮住。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P135",
-  "unit": "M06",
-  "part": 3,
-  "event": "陆沉提出公开受影响者名单，遭到同场效率派反对；情节把模型价值选择摆上桌。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P136",
-  "unit": "M07",
-  "part": 1,
-  "event": "参与者验证新名册真伪，一名对手利用虚假重复登记骗配额；不是所有反对优化的人都正确。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P137",
-  "unit": "M07",
-  "part": 2,
-  "event": "主角拆分必需保障与竞争资源，留下申诉窗口，付出较低总分和自己的高级奖励。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P138",
-  "unit": "M07",
-  "part": 3,
-  "event": "一个不讨人喜欢的参与者也受其规则保护，证明他维护的是程序而非自己人。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P139",
-  "unit": "M08",
-  "part": 1,
-  "event": "方案通过硬指标但评分低，主角第一次正面承受正确行动未必拿最高奖励。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P140",
-  "unit": "M08",
-  "part": 2,
-  "event": "论坛把他称为保守派，姜黎核算这次声望争论不能兑成实际资源。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P141",
-  "unit": "M08",
-  "part": 3,
-  "event": "蜂后侧的匿名评语发现他保留了退出路径，开始把协调者潜力与绝对服从区分。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P142",
-  "unit": "M09",
-  "part": 1,
-  "event": "旧采集点出现霜猎迁徙，最亮的满载包成了追踪目标，地图评级未充分反映季相。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P143",
-  "unit": "M09",
-  "part": 2,
-  "event": "陆沉找到已被他人收割过的痕迹，却不能直接判定来自反抗者；自然共享区也可解释。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P144",
-  "unit": "M09",
-  "part": 3,
-  "event": "他转向低收益路线，仍被迫弃掉大部分晶体，带伤寻找有效走廊。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P145",
-  "unit": "M10",
-  "part": 1,
-  "event": "他修好机械备用定位，在信标有效后才成功整身撤回；失败不是按键离开肉体。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P146",
-  "unit": "M10",
-  "part": 2,
-  "event": "医疗与亏损追缴进入账本，低评级和记忆抑制被包装成高拟真负担。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P147",
-  "unit": "M10",
-  "part": 3,
-  "event": "他承认失败，不伪造采集量；以行动守住与沈的记录承诺。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P148",
-  "unit": "M11",
-  "part": 1,
-  "event": "陆沉凭旧照片知道那句话的字面内容，但无法找回对应情景，重复记忆代价又换了制度原因。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P149",
-  "unit": "M11",
-  "part": 2,
-  "event": "沈指出奖励归功于个人而失败被解释成生理必然的双重标准，两人第一次认真讨论可否拒绝任务。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P150",
-  "unit": "M11",
-  "part": 3,
-  "event": "周衡拿出自己既往处罚清单，表明长期顺从也不能换来明确终点。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P151",
-  "unit": "M12",
-  "part": 1,
-  "event": "模拟船坞即将停炉，任务是把可修复的载运装置送出，而不是消灭守卫。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P152",
-  "unit": "M12",
-  "part": 2,
-  "event": "每次重置会复位可见损伤但不退还已散失的热量，陆沉必须测能量而非只看外观。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P153",
-  "unit": "M12",
-  "part": 3,
-  "event": "同场者提出把未检查的残骸当新品，他必须冒掉分风险拆开验证。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P154",
-  "unit": "M13",
-  "part": 1,
-  "event": "参与者用残余热与不同冷却段完成真实可行的搬运方案，赢在时序而不是召唤额外燃料。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P155",
-  "unit": "M13",
-  "part": 2,
-  "event": "一名坚持利润最大化者提前离场，主角能救货物不能替他改变选择。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P156",
-  "unit": "M13",
-  "part": 3,
-  "event": "回归后，文青将副本当作系统教学样本，发现技能说明中刻意省掉的散热项。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P157",
-  "unit": "M14",
-  "part": 1,
-  "event": "磁岩边缘的显示与链路分别失效，陆沉用机械标尺和地形回到覆盖带。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P158",
-  "unit": "M14",
-  "part": 2,
-  "event": "危急时初等精神接口首次有效外放，消耗真实晶体；它不是无契约的纯意志奇迹。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P159",
-  "unit": "M14",
-  "part": 3,
-  "event": "安全后他断开AR显示做最小排错，查出旧维护注释来自兼容层，却留下一组无法解释的残余响应。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P160",
-  "unit": "M15",
-  "part": 1,
-  "event": "沈撤回只凭报告批次推死亡时间的判断，改查有自愿授权的外派与就诊顺序。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P161",
-  "unit": "M15",
-  "part": 2,
-  "event": "她发现个别病例的外派档案早于审批、注销却晚于关停，提示行政状态与生命状态并不相同。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P162",
-  "unit": "M15",
-  "part": 3,
-  "event": "陆沉愿意公开自己的负结果，六人的互助不再以谁永远聪明为基础。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P163",
-  "unit": "M16",
-  "part": 1,
-  "event": "封闭医院有有限床位、不同预后与互相冲突的同意书，陆沉与五名陌生参与者必须建立可执行分诊。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P164",
-  "unit": "M16",
-  "part": 2,
-  "event": "系统奖励优先恢复生产能力，沈在另一场的研究经验成为陆沉提前掌握的方法而非场外外挂。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P165",
-  "unit": "M16",
-  "part": 3,
-  "event": "陆沉不能替患者签牺牲书，只能把可选后果说清，反对者也得到同样的解释。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P166",
-  "unit": "M17",
-  "part": 1,
-  "event": "他们保住最低治疗、公开转诊代价并通过目标，却失去一批最高分产能指标。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P167",
-  "unit": "M17",
-  "part": 2,
-  "event": "一个参与者不愿把生还归功于主角，指出他仍掌握了提案的语言权，给其下一阶段领导埋压力。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P168",
-  "unit": "M17",
-  "part": 3,
-  "event": "回归后沈提出对自己的科研也用同样的退出制度，不接受以未来救人为由无限实验。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P169",
-  "unit": "M18",
-  "part": 1,
-  "event": "实体旧符文完成放电与签名撤销，陆沉用已有基础契约重建本地关系，不凭假死继承他人权利。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P170",
-  "unit": "M18",
-  "part": 2,
-  "event": "失败一次烧掉限额材料，成功版的效率低于原件，他不能把重获使用权吹成超越原主人。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P171",
-  "unit": "M18",
-  "part": 3,
-  "event": "配额完成后才有时间进入工坊遗迹，发现一批外形相近、工序不同的失败片。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P172",
-  "unit": "M19",
-  "part": 1,
-  "event": "陆沉先读得懂进出通路，再用重复刻记建立少量术语，不会突然全文理解古代语言。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P173",
-  "unit": "M19",
-  "part": 2,
-  "event": "某片撤回纹路仍影响下一步响应，材料疲劳是第一假说，主角不得跳过它。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P174",
-  "unit": "M19",
-  "part": 3,
-  "event": "一张生活用具旁的工序表表明类猿人并非只为战争造符文，文明有自己的日常。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P175",
-  "unit": "M20",
-  "part": 1,
-  "event": "携回拓片由文青和沈各从工具痕迹与生理用途切入，主角的第一种宗教解释被部分推翻。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P176",
-  "unit": "M20",
-  "part": 2,
-  "event": "有人把壁画当新攻略抢购，姜黎拒绝把自己未能核实的译文标成事实出售。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P177",
-  "unit": "M20",
-  "part": 3,
-  "event": "蜂后匿名接触陆沉，提供样品租赁但要求完整实验记录，交易有真实诱惑。租赁旧图纸的一处制图者栏保留0-0原型签章，仅显露编号，不解释身份。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P178",
-  "unit": "M21",
-  "part": 1,
-  "event": "课程考核、养父母探访与设备押金同时到期，双重生活不再只有升阶快感。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P179",
-  "unit": "M21",
-  "part": 2,
-  "event": "陆沉和沈明确建立亲密关系，不靠临死告白；他们同时约定任何研究参与都可撤回。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P180",
-  "unit": "M21",
-  "part": 3,
-  "event": "林越的婚讯抵达，备孕只是未来意向登记，正式资格仍须24岁。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P181",
-  "unit": "M22",
-  "part": 1,
-  "event": "陆沉与五名陌生参与者在模拟市场中处理同源记忆的不同继承人，任务是完成身份与债务清算。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P182",
-  "unit": "M22",
-  "part": 2,
-  "event": "卖方许诺“恢复死者”，展示的其实是旧记录的另一次执行；高拟真感情并不自动证明连续身份。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P183",
-  "unit": "M22",
-  "part": 3,
-  "event": "陆沉拒绝为便利把后来不同经历的对象合并成一人，第一次面对自己可能也是扫描后继者。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P184",
-  "unit": "M23",
-  "part": 1,
-  "event": "完成清算的代价是承认新增责任而非删除副本：资源预算更紧，评分更低，身份问题不被一刀简化。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P185",
-  "unit": "M23",
-  "part": 2,
-  "event": "主角把高置信假说向读者说清：公民世界很可能是模拟，高级试炼很可能是真实出勤，尚缺物理确认。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P186",
-  "unit": "M23",
-  "part": 3,
-  "event": "他不向公众发布未经证实的全套结论，但将足以影响同伴安全的部分告知五人。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P187",
-  "unit": "M24",
-  "part": 1,
-  "event": "在完成母树潮滩基础配额后，陆沉按预先封存的随机顺序测试样片，减少自己想看见奇迹的偏差。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P188",
-  "unit": "M24",
-  "part": 2,
-  "event": "同样工况中性格和善意不能解释结果，操作历史与个体响应更有预测力；他否定了自己的道德猜测。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P189",
-  "unit": "M24",
-  "part": 3,
-  "event": "实验得到低功率组织维持上的局部省能方向，不能称整个符文体系被重写。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P190",
-  "unit": "M25",
-  "part": 1,
-  "event": "母树满果能立刻补齐亏损，但守护群与幼株显示过量摘取会切断下一季供给。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P191",
-  "unit": "M25",
-  "part": 2,
-  "event": "陆沉完成最低采收、留下再生材料，放弃高奖励并记录不能由当季成绩衡量的损失。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P192",
-  "unit": "M25",
-  "part": 3,
-  "event": "局部维持器做出第一版，可减少封装过程的耗能，却需个体标定和售后。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P193",
-  "unit": "M26",
-  "part": 1,
-  "event": "换材料、控温、双符与三接口测试逐层排错，结果仍不足以证明终极解释。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P194",
-  "unit": "M26",
-  "part": 2,
-  "event": "主角保留阴性数据，承認上卷的七个孩子和七个站没有物理证明力，F7链首次主动去伪。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P195",
-  "unit": "M26",
-  "part": 3,
-  "event": "带回日志与少量合格产品，实验成本已经吃掉部分采集收益；得知知识也要付账。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P196",
-  "unit": "M27",
-  "part": 1,
-  "event": "产品通过系统实物挂单出售，下次出勤物流柜交接，不让phase2提前进入前哨市场。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P197",
-  "unit": "M27",
-  "part": 2,
-  "event": "一份不适配投诉迫使陆沉退钱并承认局部优化条件，姜黎坚持不把失败藏掉保护声誉。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P198",
-  "unit": "M27",
-  "part": 3,
-  "event": "维持器的小收益帮他建立独立议价能力，但还远不足以供养任何文明。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P199",
-  "unit": "M28",
-  "part": 1,
-  "event": "金豆消息的一段中继失效，失去的是验证窗口而非神秘人万能补发；陆沉带着不完整线索入新场。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P200",
-  "unit": "M28",
-  "part": 2,
-  "event": "返还馆声称可以归还最重要之物，实则只能提供有记录的复制物或描述，参与者必须辨清可退还的种类。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P201",
-  "unit": "M28",
-  "part": 3,
-  "event": "主角拒绝把模拟出来的母亲当作亲生母亲的当前存在，关心对方表现却不接受证据偷换。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P202",
-  "unit": "M29",
-  "part": 1,
-  "event": "通关需要核验物品来源并拒绝无法履约的交换，不是把一切温情都宣布虚假。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P203",
-  "unit": "M29",
-  "part": 2,
-  "event": "陆沉取得合法公开的载体目录交叉索引，确认0号实验室不只是普通档案室，但仍未见完整身世文件。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P204",
-  "unit": "M29",
-  "part": 3,
-  "event": "沈再次说明知道旧经历与恢复旧体验不同，感情线不重复用失忆制造误会。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P205",
-  "unit": "M30",
-  "part": 1,
-  "event": "矿脉暗层出勤揭示高纯晶体依赖旧沉积，产量下降不只是猎手不努力。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P206",
-  "unit": "M30",
-  "part": 2,
-  "event": "长时间弱耦合累积校正开销，陆沉主动中止实验，丢掉一批昂贵样品和最想拿到的结果。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P207",
-  "unit": "M30",
-  "part": 3,
-  "event": "信号特征和耗能同时上升，第一次把研究自由与文明隐蔽变成可测代价。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P208",
-  "unit": "M31",
-  "part": 1,
-  "event": "租赁样片归还并核算；陆沉把成果限制为特定维持工况8%—12%节流，不用天才跨越六年研究的夸口。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P209",
-  "unit": "M31",
-  "part": 2,
-  "event": "蜂后匿名邀请他承担更大协调任务，报价改善家人便利却不许兑信用点，诱惑来自真实资源而非规则漏洞。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P210",
-  "unit": "M31",
-  "part": 3,
-  "event": "他要求先看持续服役的退出条件，对方只提供模糊的晋升描述。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P211",
-  "unit": "M32",
-  "part": 1,
-  "event": "六人交叉比较自己的任务、处罚和外派记录，形成共同的风险判断，但保留分歧。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P212",
-  "unit": "M32",
-  "part": 2,
-  "event": "周衡最担心女儿，文青最担心自己拖累人，贺骁反对把猜测当保命保证，沈要求一人一份记录。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P213",
-  "unit": "M32",
-  "part": 3,
-  "event": "他们约定不拿同伴不知情的生命验证假说；陆沉明确接受这一约束，包括对自己。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P214",
-  "unit": "M33",
-  "part": 1,
-  "event": "模拟保全庭争夺的是谁有权销毁账与谁可要求暂停执行，主目标为保住完整的异议材料。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P215",
-  "unit": "M33",
-  "part": 2,
-  "event": "陆沉赢得合法留存而不是黑入系统取得万能根权限，拿到能用于审查的规范片段。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P216",
-  "unit": "M33",
-  "part": 3,
-  "event": "规范显示“公民接入终止”与“生命支持终止”并非同一条操作，六人假说显著增强但仍非保证。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P217",
-  "unit": "M34",
-  "part": 1,
-  "event": "猎场配额建立在过时丰度上，陆沉必须在假报达标与真实低收益之间选一个。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P218",
-  "unit": "M34",
-  "part": 2,
-  "event": "他带回不够的晶体和可复核的生态损耗记录，沈与文青为其构建反证，不让这次失败归咎于懒惰。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P219",
-  "unit": "M34",
-  "part": 3,
-  "event": "系统批量终期考核开始，六人分别整理家人安排；相互同意只针对具体风险，不交空白授权。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P220",
-  "unit": "M35",
-  "part": 1,
-  "event": "十二个六人单元进入终期站，生还席位和供能缺口逐步暴露；主角先验证正常生路确实存在。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P221",
-  "unit": "M35",
-  "part": 2,
-  "event": "六人各自在救援与抢出口之间作决定，部分人因此失去自己的可达出口；不能都归为陆沉偷偷选择。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P222",
-  "unit": "M35",
-  "part": 3,
-  "event": "剩余生路与重伤者争夺资源，陆沉公开自己对死亡转任的高置信推断及不可排除的真死风险。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P223",
-  "unit": "M36",
-  "part": 1,
-  "event": "陆沉放弃入席，把完整凭证穿过关站站段送到单元01，交给仍能进入最后一席的伤者祁霁；五人知道他的计划与风险，不被隐瞒带去死。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P224",
-  "unit": "M36",
-  "part": 2,
-  "event": "五人在已失去各自出口后接手代维缓冲联锁，拒绝不受道德贬低；陆沉独自走向避难覆盖外的核心缓冲区，把验证死亡转任的试金石换成自己——假说若错，核心只杀死他一个。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P225",
-  "unit": "M36",
-  "part": 3,
-  "event": "祁霁的席位实际兑现并保存回执，其余七十一人虚拟失败转任；陆沉从核心区活着走出关站，系统分别登记不同退出方式。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P226",
-  "unit": "D01",
-  "part": 1,
-  "event": "六人在真实身体中醒来，前哨宣布原公民身份终止；真正通关者也被行政转任，刺破“赢就自由”。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P227",
-  "unit": "D01",
-  "part": 2,
-  "event": "沈核对持续的伤痕、设备号和生理记录，真身连续性获得证据，主角不装作这时才第一次想到真相。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P228",
-  "unit": "D01",
-  "part": 3,
-  "event": "贺骁当面问出清算——你早就猜到死不了，为什么眼看着我们选；陆沉只答“拦你们等于替你们选”，这句话没有抚平怒气。旧公民死亡记录已送达亲友，他们不能立刻冲回去告诉所有人自己活着。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P229",
-  "unit": "D02",
-  "part": 1,
-  "event": "陆沉以已达标等级申请建队，五人逐个同意；分成、医疗公款和退出权写清。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P230",
-  "unit": "D02",
-  "part": 2,
-  "event": "贺骁带着清算余怒同意入队，不愿所有危险都让队长第一；周衡提出不能把家属查询当奖励，第一场分歧没有靠感动跳过。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P231",
-  "unit": "D02",
-  "part": 3,
-  "event": "六人选标准团队房而非装阔，第一次真正共同承担账单。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P232",
-  "unit": "D03",
-  "part": 1,
-  "event": "仇明以外部观察者身份重逢，说明化身、提领权和0.3秒工程空窗，不成为第七个队员。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P233",
-  "unit": "D03",
-  "part": 2,
-  "event": "主角承认自己的宇宙统一解释曾错，也要求对方承认设计过压力；胜利不能全被“我故意的”收走。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P234",
-  "unit": "D03",
-  "part": 3,
-  "event": "仇明给出真名邵闻川与可查的旧工单，但拒绝交出自己并不知道的蜂后全部意图。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P235",
-  "unit": "D04",
-  "part": 1,
-  "event": "第一场小队采集遇见铆钉队抢先占点，对方效率高但不纯恶，主角不能靠嘴炮取得物资。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P236",
-  "unit": "D04",
-  "part": 2,
-  "event": "贺骁主动放下自己能多背的晶体去接文青的负重，既不逞强也不把照顾写成数值补正。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P237",
-  "unit": "D04",
-  "part": 3,
-  "event": "小队按保守配额成功返回，收益不足以解决长期医疗债，合作与资源账一同成立。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P238",
-  "unit": "D05",
-  "part": 1,
-  "event": "前哨医院急救能保命，长期再生却要积累配额；沈不能凭大学一年级身份接管医院。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P239",
-  "unit": "D05",
-  "part": 2,
-  "event": "她从记录、包扎和申请随诊开始，与医生季芩共同整理等待名单。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P240",
-  "unit": "D05",
-  "part": 3,
-  "event": "一次低功率维持器帮助一人撑过等待，却不能让所有重伤者免费痊愈；祁霁陪他单元01的旧队友排在等待名单里，两个单元的走动从医院开始。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P241",
-  "unit": "D06",
-  "part": 1,
-  "event": "沈将自愿者的持续生理记录与任务前后修复记录对上，证明死亡登记并不等于真实脑死亡。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P242",
-  "unit": "D06",
-  "part": 2,
-  "event": "她严守资料用途，不把所有病人的私密记录打包交给反抗者；调查第一次有真实的伦理边界。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P243",
-  "unit": "D06",
-  "part": 3,
-  "event": "陆沉看清复制—接入—身份注销的分层，亲生父母问题因此更尖锐而非已解。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P244",
-  "unit": "D07",
-  "part": 1,
-  "event": "陆沉获准短暂接入，使用临时身份，不能冒认复活或私自联系家属。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P245",
-  "unit": "D07",
-  "part": 2,
-  "event": "他看到林越公开的农业记录与未来生育意向，知道朋友正在哀悼自己，却没有权把监控当团聚。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P246",
-  "unit": "D07",
-  "part": 3,
-  "event": "通过合法查询核对U12老师与三名入门退出者仍在正常生活，关闭早期去向悬念。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P247",
-  "unit": "D08",
-  "part": 1,
-  "event": "轮值维修让文青发现生活区泵管与生产用能不匹配，地下可能有远超前哨人口的负载。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P248",
-  "unit": "D08",
-  "part": 2,
-  "event": "蜜城的登记权影射回响，但地下一层位置不能仅靠同构猜出，必须追旧工程图。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P249",
-  "unit": "D08",
-  "part": 3,
-  "event": "主角决定先取合法检修资料而非打穿地板，避免以真相为名危及未知对象。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P250",
-  "unit": "D09",
-  "part": 1,
-  "event": "铆钉队与主角队争母树采收权；先标者长期圈点而不复育，使旧惯例出现真实矛盾。铆钉队中出现预算听证时退场的唐嵘，证实阶段分流，也迫使陆沉修正对效率派的简单判断。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P251",
-  "unit": "D09",
-  "part": 2,
-  "event": "姜黎提出限时占用与公开收获记录，必须先让自己队放弃一个圈下的点，规则对己有效。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P252",
-  "unit": "D09",
-  "part": 3,
-  "event": "临时仲裁赢得稳定采收而非独占财富，灰鹭队愿意试用但不宣誓追随。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P253",
-  "unit": "D10",
-  "part": 1,
-  "event": "一名死者的装备和余额引出遗产争议，队友、伴侣与公共预算各有合理诉求。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P254",
-  "unit": "D10",
-  "part": 2,
-  "event": "姜黎展示50%上缴只是债权重分配，不会再凭空增加晶体；主角第一次能把制度利益说清。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P255",
-  "unit": "D10",
-  "part": 3,
-  "event": "他们取得一份旧编号工单而非秘密武器，代价是替死者家属垫付查询费用。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P256",
-  "unit": "D11",
-  "part": 1,
-  "event": "高危勘测要求先修锚点再步行，六人分担补给，不能在一夜间从前哨飞到遗迹中心。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P257",
-  "unit": "D11",
-  "part": 2,
-  "event": "途中遇到低价值但必须救助的失散测绘者，保住人使任务收益下降。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P258",
-  "unit": "D11",
-  "part": 3,
-  "event": "抵达外围发现多数器物关乎蓄水、照护和运输，先民不只是供蜂巢解谜的背景板。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P259",
-  "unit": "D12",
-  "part": 1,
-  "event": "两处工坊保存了相似的工序残差记号，文青提出技术解释，沈提出生理解释。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P260",
-  "unit": "D12",
-  "part": 2,
-  "event": "陆沉允许互相竞争的译法保留，不能靠精神力宣布哪一个是真。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P261",
-  "unit": "D12",
-  "part": 3,
-  "event": "得到低功率复验线索，同时看到类猿人无法激活繁育接口却能正常生育的直接物证。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P262",
-  "unit": "D13",
-  "part": 1,
-  "event": "原先被读成祭祀的场景其实是术后护理，错误译文已在前哨流传并抬高假文物价格。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P263",
-  "unit": "D13",
-  "part": 2,
-  "event": "姜黎主动撤回出售过的推断并承担退款，守住信誉不靠从未犯错。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P264",
-  "unit": "D13",
-  "part": 3,
-  "event": "正确译法来自不同材料的互证，古文明研究获得一次真正的认识回报。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P265",
-  "unit": "D14",
-  "part": 1,
-  "event": "地震后的深窟改道，旧地图不足，队伍依赖测绘和留守节点，无法靠高强度一路轰开。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P266",
-  "unit": "D14",
-  "part": 2,
-  "event": "周衡为找回一位失联者偏离预案，必须及时告知而非复制主角旧稿的秘密救人。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P267",
-  "unit": "D14",
-  "part": 3,
-  "event": "他们保住人却失去部分拓片和设备，洞内末日遗留与蜂巢支持仓形成可感的对照。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P268",
-  "unit": "D15",
-  "part": 1,
-  "event": "遗迹损伤方向、材料变化与天文记录共同支持外来清除事件，不能只靠断碑一句话证明黑暗森林。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P269",
-  "unit": "D15",
-  "part": 2,
-  "event": "陆沉承认蜂后的隐蔽焦虑有现实对象，但反对把未知动机说成不可讨论的宇宙律。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P270",
-  "unit": "D15",
-  "part": 3,
-  "event": "小队带回证据，选择不公开可定位的原始发射结构，公开风险理由和暂缓期限。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P271",
-  "unit": "D16",
-  "part": 1,
-  "event": "系统要求找回断链者与器材，目标信息把病人和武装者混为一类，六人必须核验。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P272",
-  "unit": "D16",
-  "part": 2,
-  "event": "磁岩边缘的足迹与中卷标记相互印证，反抗线从猜测进入可追溯行动。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P273",
-  "unit": "D16",
-  "part": 3,
-  "event": "他们拒绝先开火，在任务允许的回收谈判范围内尝试联系，不靠突然良心醒悟取消全部危险。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P274",
-  "unit": "D17",
-  "part": 1,
-  "event": "沈坚持先处理伤员而非逼其签回归书，周衡担心违反任务会影响家属查询。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P275",
-  "unit": "D17",
-  "part": 2,
-  "event": "伤员证明早年的死亡注销和当下身体支持属于两套账，补足政治指控的实物部分。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P276",
-  "unit": "D17",
-  "part": 3,
-  "event": "六人以完整记录申请任务改判，失去原奖金但不把救人伪报成击杀。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P277",
-  "unit": "D18",
-  "part": 1,
-  "event": "主角首次正面接触拾遗会，看到净水、伤员、种床和有限库存，不是无所不能的地下军团。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P278",
-  "unit": "D18",
-  "part": 2,
-  "event": "温和派乔砚给出材料，技术负责人岑渡要求独立复验，明灯派领袖陶烈要求立即公开。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P279",
-  "unit": "D18",
-  "part": 3,
-  "event": "各方先就食物与医疗互换谈成一件小事，信任来自履约而非站同一口号。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P280",
-  "unit": "D19",
-  "part": 1,
-  "event": "三派分别代表渐进知情、立即公开、维持小据点生存的诉求；任何一路都有具体受损者。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P281",
-  "unit": "D19",
-  "part": 2,
-  "event": "陆沉拒绝把全体公民当尚未作答的支持票，也拒绝以他们未反抗证明他们同意。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P282",
-  "unit": "D19",
-  "part": 3,
-  "event": "拟定有限实验：只向自愿参与者说明基本事实，并记录拒绝和退出。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P283",
-  "unit": "D20",
-  "part": 1,
-  "event": "自愿听取者不按英雄期待表态，有人接受模拟生活，有人愤怒，也有人只关心家属安全。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P284",
-  "unit": "D20",
-  "part": 2,
-  "event": "林越的意象被扩展为真实的不同选择，主角承认选择权不是所有人最终选择他那条路。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P285",
-  "unit": "D20",
-  "part": 3,
-  "event": "试点遇到外传风险，公开范围暂时收缩但理由与期限被保留，不能再次无限保密。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P286",
-  "unit": "D21",
-  "part": 1,
-  "event": "岑渡答应以独立设备重复异常实验，条件是全部失败数据公开并有随时停机权。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P287",
-  "unit": "D21",
-  "part": 2,
-  "event": "沈将生理记录和研究同意分开管理，文青准备不依赖AR的机械测量。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P288",
-  "unit": "D21",
-  "part": 3,
-  "event": "陆沉不再同时担任唯一操作者、解释者和裁判，失去个人掌控却换来更可信的知识。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P289",
-  "unit": "D22",
-  "part": 1,
-  "event": "第二套器材复现路径残差，部分组别没有复现，结果以适用范围和不确定性呈现。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P290",
-  "unit": "D22",
-  "part": 2,
-  "event": "高维解释仍未获证，六通道模型需要扩展却未被全盘推翻；主角得到知识而非隐藏职业。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P291",
-  "unit": "D22",
-  "part": 3,
-  "event": "蜂后收到独立结果，第一次不能只把异常归为陆沉个人适配问题。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P292",
-  "unit": "D23",
-  "part": 1,
-  "event": "在有材料、账户和共同同意的准备后，三符共鸣形成独立镜像，启动代价吃掉一部分储备。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P293",
-  "unit": "D23",
-  "part": 2,
-  "event": "镜像只继承启动前有限结构，醒来后面对不同输入，自称陆照，不接受被当作原主远程器官。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P294",
-  "unit": "D23",
-  "part": 3,
-  "event": "沈把她列为独立被照护者而不是情敌，主角必须承担创造生命后的现实责任。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P295",
-  "unit": "D24",
-  "part": 1,
-  "event": "获取的匹配记录证明零点列车曾受干预，生日相同及其他相识并非整套编造。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P296",
-  "unit": "D24",
-  "part": 2,
-  "event": "陆与沈重新审视对彼此的选择，拒绝让一次安排夺走所有共同经历的真实性。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P297",
-  "unit": "D24",
-  "part": 3,
-  "event": "神秘人迟客显露超出拾遗会范围的知识，但没有披露身份，也未替队伍解开权限。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P298",
-  "unit": "D25",
-  "part": 1,
-  "event": "陆照拒绝为提高整体能力而合并，陆沉承认合并请求不是本体天然权利。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P299",
-  "unit": "D25",
-  "part": 2,
-  "event": "独立生活需要预算、训练和工作，她也不能只以人格主张免除全部责任。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P300",
-  "unit": "D25",
-  "part": 3,
-  "event": "双方约定协作而不合体，主动放弃一次潜在战力飞跃，主题落在实物与人事安排。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P301",
-  "unit": "D26",
-  "part": 1,
-  "event": "持续放大残差使校正负荷、设备热量与签名泄漏共同上升，危险不因低峰功率而消失。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P302",
-  "unit": "D26",
-  "part": 2,
-  "event": "陆沉在最接近新结果时停机，损失样品与部分可用模块；不以危及公众来证明自己正确。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P303",
-  "unit": "D26",
-  "part": 3,
-  "event": "蜂后也不能凭控制权直接抹掉余波，需要双方协作处理，显示知识和权力的差别。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P304",
-  "unit": "D27",
-  "part": 1,
-  "event": "生态衰退、矿层品质变化与维护停机叠加，正常余量消失；危机有前三卷持续证据，不由坏人按按钮凭空产生。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P305",
-  "unit": "D27",
-  "part": 2,
-  "event": "主角把个人节流技术放进总账，承认它只能填一部分缺口；反抗者不能以口号产出能源。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P306",
-  "unit": "D27",
-  "part": 3,
-  "event": "多支小队开始有限共享采收与维修数据，祁霁与他终期单元的旧同伴组队加入，谈判有了实物筹码。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P307",
-  "unit": "D28",
-  "part": 1,
-  "event": "陶烈计划占用观测链路发布完整档案，他的目标是不可收回的公开，不是因为疯所以毁灭。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P308",
-  "unit": "D28",
-  "part": 2,
-  "event": "方案却会暴露定位结构并挤占预警资源，主角提供替代披露窗口，被质疑只是拖延。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P309",
-  "unit": "D28",
-  "part": 3,
-  "event": "陶烈内部有人拒绝绑架伤员作筹码，阵营出现真实分裂，不全体沦为反派。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P310",
-  "unit": "D29",
-  "part": 1,
-  "event": "文青用D08维护单与D14损失后的补测定位备用通道，岑渡核对其中不能靠图纸保证安全的段落。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P311",
-  "unit": "D29",
-  "part": 2,
-  "event": "神秘人提供一个可验证的旧维修时段，不给万能钥匙；仇明申请保护资料与支持对象的有限授权。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P312",
-  "unit": "D29",
-  "part": 3,
-  "event": "队伍分别去保散热、留证据和保护医疗，陆沉不能同时赢下全部战线。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P313",
-  "unit": "D30",
-  "part": 1,
-  "event": "仇明协助抢修时严重受伤，同一副真实身体不能像三号场化身那样重置。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P314",
-  "unit": "D30",
-  "part": 2,
-  "event": "沈与季芩按有限材料稳定他，陆沉必须放弃追击明灯派去保障救援通道。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P315",
-  "unit": "D30",
-  "part": 3,
-  "event": "他活下来但失去长期外勤能力，旧“死必须有价值”转为“活着也不用不断证明”；同一轮抢修里，祁霁与他终期单元的旧同伴顶上被拆联锁拖累的散热段，死于过热事故——让席保下来的命，也没有第二副。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P316",
-  "unit": "D31",
-  "part": 1,
-  "event": "一部分监控审计记录在事故中损毁，主角不能靠后来神秘备份把选择的代价全部拿回。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P317",
-  "unit": "D31",
-  "part": 2,
-  "event": "他们保住生命支持和关键来源索引，接受某些指控暂时无法证明，反对用合理猜测替代事实。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P318",
-  "unit": "D31",
-  "part": 3,
-  "event": "迟客帮助局部封堵后离开，身份暗示保留，行动并未包办救援。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P319",
-  "unit": "D32",
-  "part": 1,
-  "event": "陆沉核验代签记录、扫描时间和0号载体批次，确认童年不是模板，亲生父母也不是实验室伪造。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P320",
-  "unit": "D32",
-  "part": 2,
-  "event": "父母未获自身承载席位但为孩子签署备份；终战记录给出最后去向，不伪称实时看见他们现在。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P321",
-  "unit": "D32",
-  "part": 3,
-  "event": "冷静改造施加在载体脑适配方案上，未经本人同意的设计被伪记污染；蜂后后来利用它，不是创造了他全部人生。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P322",
-  "unit": "D33",
-  "part": 1,
-  "event": "联合采收、局部维持节流、医疗降峰与阶段性库存释放组成可执行过冬方案，改进逐项列出代价。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P323",
-  "unit": "D33",
-  "part": 2,
-  "event": "拾遗会有一处据点必须迁移，前哨部分人延后住房升级，大家都付出而非只有女一奉献。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P324",
-  "unit": "D33",
-  "part": 3,
-  "event": "蜂后拿到比压迫旧方案更有韧性的有限证据，谈判因此有现实基础，尚不是解决永恒能源。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P325",
-  "unit": "D34",
-  "part": 1,
-  "event": "使用已核验密道和有限许可进入地下，六人分工保障外部系统，不能任由谈判中断救援。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P326",
-  "unit": "D34",
-  "part": 2,
-  "event": "主角亲眼见支持仓与模拟接口，完成城市虚拟的最终物理确认，同时看见维持它的具体劳动。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P327",
-  "unit": "D34",
-  "part": 3,
-  "event": "他将可公开的证据副本交由不同主体保管，不把自己变成新的唯一知情者。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P328",
-  "unit": "D35",
-  "part": 1,
-  "event": "对质保留灾难、地狱与后悔三个核心提问，但不再让陆沉秘密带朋友求死成为未经批判的事实。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P329",
-  "unit": "D35",
-  "part": 2,
-  "event": "蜂后展示单向存储证据和供能账，陆沉承认安全约束，区分它们与强制销毁、虚假服役的政策。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P330",
-  "unit": "D35",
-  "part": 3,
-  "event": "她承认观察过反抗者，同时说清无法预测事故与独立实验；不是所有人的成功都在她计划中。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P331",
-  "unit": "D36",
-  "part": 1,
-  "event": "陆沉不因理解而宣布原谅，蜂后也不因一次演讲瞬间成为慈母；双方开始谈可验证的权限改变。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P332",
-  "unit": "D36",
-  "part": 2,
-  "event": "公开支持账、暂停争议性销毁、明示试炼退出规则、独立医疗记录与自愿知情入口进入有限协议。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P333",
-  "unit": "D36",
-  "part": 3,
-  "event": "历史责任调查保留，明灯派行为按具体伤害区分，反对意见本身不作为清洗理由。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P334",
-  "unit": "D37",
-  "part": 1,
-  "event": "试点先覆盖60名工蜂与少量自愿家属，不承诺一亿人明天都有身体或立即进入真实世界。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P335",
-  "unit": "D37",
-  "part": 2,
-  "event": "多方持有审计副本和应急物资，重要操作留共同记录；蜂后仍可违约，但无法再悄悄让违约不存在。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P336",
-  "unit": "D37",
-  "part": 3,
-  "event": "出生配额、培养成本与医疗排期公开引出新的不满，改革不是没有损失的奖励结算。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P337",
-  "unit": "D38",
-  "part": 1,
-  "event": "周衡帮助一名伤残工蜂拒绝高危采集，系统必须执行替代轮值，不再把拒绝记成新的罪债。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P338",
-  "unit": "D38",
-  "part": 2,
-  "event": "收入下降和岗位有限依然存在，他获得的不是无代价安逸，而是不被胁迫的有限选择。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P339",
-  "unit": "D38",
-  "part": 3,
-  "event": "仇明成为第一批长期退勤者，以真名作证，人物线以活着承担责任而非强行壮烈收束。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P340",
-  "unit": "D39",
-  "part": 1,
-  "event": "陆沉经试点正式告知林越自己仍活着及世界基本事实，不冒认陌生身份偷偷操控朋友生活。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P341",
-  "unit": "D39",
-  "part": 2,
-  "event": "林越愤怒于被瞒，随后选择暂住模拟世界、不继续读取全部危险细节；选择出于他而非蜂后或主角。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P342",
-  "unit": "D39",
-  "part": 3,
-  "event": "他仍谈西瓜和未来的家庭，这些不因知情失去价值；深层资料入口为以后保留。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P343",
-  "unit": "D40",
-  "part": 1,
-  "event": "独立小组继续低风险复验，确认异常存在但终极解释仍不足；主角不在结果中自封救世主。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P344",
-  "unit": "D40",
-  "part": 2,
-  "event": "深空威胁继续逼近，蜂后承认不能从残差上升直接推出对方已发现蜂巢。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P345",
-  "unit": "D40",
-  "part": 3,
-  "event": "各方公开承受未知的限度，冻结放大试验；未来风险保留，已承诺事实不拖成下一部才解释。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P346",
-  "unit": "D41",
-  "part": 1,
-  "event": "小队不再必须永远六人同进同退：文青维护测量站、沈推进医疗、贺训练自愿新人、姜维护公开交易信誉。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P347",
-  "unit": "D41",
-  "part": 2,
-  "event": "周衡争取亲属联系，陆照独立选择研究工作，陆沉从唯一指挥者转为可被替换的协调者。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P348",
-  "unit": "D41",
-  "part": 3,
-  "event": "他们约定下一次自愿采集，具体生活重返结尾，不把制度成果留作抽象旁白。陆沉的睡眠有所改善，仍保留高负荷后的余波，不把接受真相写成一夜痊愈。",
-  "target_chars": 3334,
-  "status": "planned"
- },
- {
-  "id": "P349",
-  "unit": "D42",
-  "part": 1,
-  "event": "蓝色儿童画所在家庭收到真实的访问请求，蜂后必须等对方允许，而不是直接放大监控画面占有生活。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P350",
-  "unit": "D42",
-  "part": 2,
-  "event": "陆沉留在真实世界但不贬低模拟家园，林越来信和养母问候都通过试行的可撤回渠道。",
-  "target_chars": 3333,
-  "status": "planned"
- },
- {
-  "id": "P351",
-  "unit": "D42",
-  "part": 3,
-  "event": "蜂后对自己的称呼只在此落下一次“零”；读者可保留多读，作者不把它当第七钥匙。",
-  "target_chars": 3334,
-  "status": "planned"
- }
+  {
+    "id": "P001",
+    "unit": "U01",
+    "part": 1,
+    "event": "生日聚餐中，陆沉发现灾难当晚无人有亲历记忆；养父母领他回家的经过记得清楚，他的雨夜童年却没有第二个见证人。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P002",
+    "unit": "U01",
+    "part": 2,
+    "event": "林越把不升学的决定说清；陆沉想劝又收住，第一次面对与自己不同但完整的人生计划。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P003",
+    "unit": "U01",
+    "part": 3,
+    "event": "沈知薇递来补交作业清单，透露同日生日；凌晨04:00日常被切断，没有系统邀请。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P004",
+    "unit": "U02",
+    "part": 1,
+    "event": "六人在陌生生日宴醒来，成年身体却被NPC父母当作兄姐；陈闻礼先确认每个人能否正常呼吸。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P005",
+    "unit": "U02",
+    "part": 2,
+    "event": "守烛建议与任务原文不完全相同，陆沉保留原文，沈知薇开始逐项记录可验证事项。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P006",
+    "unit": "U02",
+    "part": 3,
+    "event": "小圆数餐具，发现父母准备了他们不愿承认的另一套餐具；熄烛后的重置发生。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P007",
+    "unit": "U03",
+    "part": 1,
+    "event": "陆沉用错位摆放测试循环，证明物体复位而人的记忆没有完全复位，不能把试错当免费命。",
+    "target_chars": 3000,
+    "status": "written"
+  },
+  {
+    "id": "P008",
+    "unit": "U03",
+    "part": 2,
+    "event": "周婶试探许愿，价目明确却比她想象的贵；佟哥想把支付转给别人，权限拒绝。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P009",
+    "unit": "U03",
+    "part": 3,
+    "event": "沈知薇发现完整姓名分散在不同记录里；小圆记住了每轮房屋最不一致的角落。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P010",
+    "unit": "U04",
+    "part": 1,
+    "event": "锁门后有关键标签，拿钥匙的正规方法来不及；沈知薇决定付一段明确的家庭记忆换入口。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P011",
+    "unit": "U04",
+    "part": 2,
+    "event": "陆沉尝试替她支付被拒，只能共同评估范围，不能把她的决定改写成他英雄救美。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P012",
+    "unit": "U04",
+    "part": 3,
+    "event": "她拿到情报，却认不出笔记里父亲曾说的一句话；陈闻礼为保护小寿星连续付款，进入退出阈值。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P013",
+    "unit": "U05",
+    "part": 1,
+    "event": "六份关系与第七份礼物对齐，陆沉重建被剪掉的家庭结构，陈闻礼留下可核对的最后一处记号。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P014",
+    "unit": "U05",
+    "part": 2,
+    "event": "周婶、小圆、佟哥相继退出；他们的作用留在证据链上，而不是为主角计数的四具尸体。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P015",
+    "unit": "U05",
+    "part": 3,
+    "event": "陆沉与沈知薇让父母和闻小满完成双方身份确认，生日真正结束；他们不知道退出者会去哪。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P016",
+    "unit": "U06",
+    "part": 1,
+    "event": "面板与论坛开放；两人分别描述界面验证共同经历，不能从彼此瞳孔看见屏幕。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P017",
+    "unit": "U06",
+    "part": 2,
+    "event": "陆沉搜索退出者没有结果；商店能重置身体却不退还沈的记忆，他第一次分清奖励与损失。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P018",
+    "unit": "U06",
+    "part": 3,
+    "event": "周一早晨在走廊确认彼此仍在，双方约定交换规则原文而非替对方安排选择。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P019",
+    "unit": "U07",
+    "part": 1,
+    "event": "两人交换试炼原文笔记，沈知薇把论坛沉帖检索做成可复核清单；过期编号与断掉的回话登记为待查项，不提前判定死者去向。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P020",
+    "unit": "U07",
+    "part": 2,
+    "event": "林越的农业志愿进入办理流程，陆沉承认帮不上具体忙；养父母再问失眠，他交出部分真话，关系没有一键修复。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P021",
+    "unit": "U07",
+    "part": 3,
+    "event": "四个平常周什么都没有发生；两人为下一次04:00做具体准备——约好相认口令与只有本人能答对的核对问题，第一次主动谈论被切走该怎么办。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P022",
+    "unit": "U08",
+    "part": 1,
+    "event": "陆沉和五名陌生人入职，任务要求到花园登记；赵成章把这里当真正的上升通道。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P023",
+    "unit": "U08",
+    "part": 2,
+    "event": "劳动印章分配并非按工时，罗芹帮人换班反而更难离开，具体制度制造而非口号说明压迫。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P024",
+    "unit": "U08",
+    "part": 3,
+    "event": "陆沉发现旧地图花园编号与顶层招牌不符，但还不能证明出口方向。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P025",
+    "unit": "U09",
+    "part": 1,
+    "event": "陆沉替罗芹分担劳动，只拿到更高的下一轮配额；第一次帮助没有带来系统奖励。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P026",
+    "unit": "U09",
+    "part": 2,
+    "event": "赵成章说服其他人接受稳定，穆乔反对却拿不出离开的办法，阵营各有真实吸引力。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P027",
+    "unit": "U09",
+    "part": 3,
+    "event": "罗芹以名字使用权替穆乔换印章，陆沉来不及阻止；代价发生后不能靠退货挽回。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P028",
+    "unit": "U10",
+    "part": 1,
+    "event": "陆沉核对坡度、工时与登记编号，提出地下北庭路线；这不是仅凭觉醒就看穿骗局。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P029",
+    "unit": "U10",
+    "part": 2,
+    "event": "穆乔必须承认自己用过罗芹付出的印章，否则验收材料不完整；幸存者被迫对代价署名。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P030",
+    "unit": "U10",
+    "part": 3,
+    "event": "许简和邵开选择同行，赵成章选择留下；陆沉不能以自己认为正确强拽对方走。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P031",
+    "unit": "U11",
+    "part": 1,
+    "event": "四人绕过交名授权，抵达真实花园节点并提交未注销身份；主目标按原谓词兑现。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P032",
+    "unit": "U11",
+    "part": 2,
+    "event": "系统确认赵成章与罗芹退出，陆沉仍误以为可能像老师那样回家；不急于旁白告诉答案。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P033",
+    "unit": "U11",
+    "part": 3,
+    "event": "结算前04:00全城同步微笑，穆乔把罗芹的名字补进自己的记录，拒绝把付出当没发生。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P034",
+    "unit": "U12",
+    "part": 1,
+    "event": "陆沉按真实学校信息找到陈闻礼，老师不认识他，却仍会先把坏了的椅子让给学生换走。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P035",
+    "unit": "U12",
+    "part": 2,
+    "event": "确认入门退出者活着，不能推出普通试炼退出者也活着；两人的第一份粗糙安全假说被推翻。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P036",
+    "unit": "U12",
+    "part": 3,
+    "event": "沈知薇帮助制定区别记录，姜老板的收费帖把不确定性明码标出，论坛第一次像真正的社会。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P037",
+    "unit": "U13",
+    "part": 1,
+    "event": "养父母聚餐，弟弟画了一扇蓝色的窗；陆沉想问亲生母亲，又怕让养母觉得这些年都不算数。养父母邻居家挂着一幅蓝色儿童画，窗被涂得不方正；先作为生活细节，不解释象征。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P038",
+    "unit": "U13",
+    "part": 2,
+    "event": "林越说清农业、婚姻与维修岗位的打算，不当一个供主角怜悯的快乐傻子。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P039",
+    "unit": "U13",
+    "part": 3,
+    "event": "陆沉把迟到的回信寄出；与沈互换考前计划，不把试炼关系直接当作恋爱承诺。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P040",
+    "unit": "U14",
+    "part": 1,
+    "event": "考试考真实掌握而非纯应试刷题，陆沉的危机冷静有效，过程成绩仍让他付散漫的代价。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P041",
+    "unit": "U14",
+    "part": 2,
+    "event": "沈知薇在实验方案题里坚持说明统计限制，少拿即时分数但保住自己的证据纪律。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P042",
+    "unit": "U14",
+    "part": 3,
+    "event": "笔试结果带来专业选择，最终录取仍待批次；两人在考场外互相等候而不表白。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P043",
+    "unit": "U15",
+    "part": 1,
+    "event": "贺骁、周衡与三名陌生人各自被镜面指控；陆沉记录NPC动作结束后迟到的触感。指路NPC递来一块路牌，陆沉接过后察觉触感在动作结束后短暂滞留；线索有实际输入来源。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P044",
+    "unit": "U15",
+    "part": 2,
+    "event": "贺骁的武力不能打破针对自己的卷宗，周衡知道旧流程却隐瞒了一处风险。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P045",
+    "unit": "U15",
+    "part": 3,
+    "event": "陆沉发现原始事件与动机推断被混成一句话，提出先找证词而非先认罪。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P046",
+    "unit": "U16",
+    "part": 1,
+    "event": "何竞打碎证据，孙逸躲避身份核验，时间压缩让两条错误路径各有后果。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P047",
+    "unit": "U16",
+    "part": 2,
+    "event": "陆沉承认阴暗念头的存在，却拒绝把未发生的伤害当成既成事实，保持人物底线。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P048",
+    "unit": "U16",
+    "part": 3,
+    "event": "贺骁第一次停拳听人说完；周衡交出曾藏住的风险资料，付出被怀疑的代价。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P049",
+    "unit": "U17",
+    "part": 1,
+    "event": "众人被幻境分隔，陆沉用各自刚刚共同确认的事实定位人，而非把真名当咒语。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P050",
+    "unit": "U17",
+    "part": 2,
+    "event": "梁萤主动纠正自己的伪证，换来孙逸路线失败的消息，救人已经晚了。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P051",
+    "unit": "U17",
+    "part": 3,
+    "event": "贺骁护住临时队伍但按计划撤退，不再用硬挡证明自己强；何竞失去最后核验时间。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P052",
+    "unit": "U18",
+    "part": 1,
+    "event": "四人各自完成陈述，系统接受有边界的责任而不是无限认罪；镜城的规则得到可验证解释。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P053",
+    "unit": "U18",
+    "part": 2,
+    "event": "技能破障入账，孙与何的死亡也进入记录；主角拒绝把这场只写成收益。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P054",
+    "unit": "U18",
+    "part": 3,
+    "event": "周衡留下联系方式用于结算争议，贺骁正式问陆沉能否交换经验，而不是偶遇强行组队。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P055",
+    "unit": "U19",
+    "part": 1,
+    "event": "陆沉按约到训练馆取贺骁手中的动作记录，不把见面写成无因的巧合。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P056",
+    "unit": "U19",
+    "part": 2,
+    "event": "论坛指控有部分可查依据，四人公开能公开的时序，保护死者私密内容；姜黎注意到这笔成本。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P057",
+    "unit": "U19",
+    "part": 3,
+    "event": "沈知薇不为自己没参加的镜城作证，只帮检查论证；她第一次明确指出陆沉过度解释的漏洞。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P058",
+    "unit": "U20",
+    "part": 1,
+    "event": "开场即公布通信收费，姜黎卖一条有用但不完整的路线，文青先检查面板离线条件。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P059",
+    "unit": "U20",
+    "part": 2,
+    "event": "于沛听觉优势消失，改用手掌辨振动；陆沉不再能把一切交给自己敏锐的耳朵。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P060",
+    "unit": "U20",
+    "part": 3,
+    "event": "大家初步分声额，杜垣反对公开自己的余量，陶芸担心不够照顾受伤者。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P061",
+    "unit": "U21",
+    "part": 1,
+    "event": "一次付费私聊真切消耗声核，堵上原稿无限免费沟通的漏洞；短纸条与手势进入战术。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P062",
+    "unit": "U21",
+    "part": 2,
+    "event": "姜黎统计路线，文青试接分时供能，两人都需要他人的配合才能验证。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P063",
+    "unit": "U21",
+    "part": 3,
+    "event": "杜垣藏核，陶芸返回拿遗物；一条本可安全的撤离路线因此错过窗口。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P064",
+    "unit": "U22",
+    "part": 1,
+    "event": "姜黎把尚未卖出的安全窗口免费交给同行者；她的选择有效但没有神秘地逆转全部危险。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P065",
+    "unit": "U22",
+    "part": 2,
+    "event": "杜与陶回不来，陆沉必须承认地面震动只覆盖局部，不能假装自己早知所有位置。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P066",
+    "unit": "U22",
+    "part": 3,
+    "event": "关闭输入后出现的短暂余感与危机无直接解题关系，被单独写进记录等待排查。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P067",
+    "unit": "U23",
+    "part": 1,
+    "event": "文青分路、于沛辨节律、姜黎安排交接、陆沉保护节点，四人把碎核接成连续输入。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P068",
+    "unit": "U23",
+    "part": 2,
+    "event": "城市恢复声音，姜黎不接受把伤亡写成自己一次免费就赎清；关系因此更深而非更轻。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P069",
+    "unit": "U23",
+    "part": 3,
+    "event": "等级与装备资格增长，真实死者仍只有杜与陶，名册不再出现新人丙。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P070",
+    "unit": "U24",
+    "part": 1,
+    "event": "贺骁替被冤同学出头后主动提交对自己不利的监控段，陆沉帮助完整还原，而非黑入删除打人证据。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P071",
+    "unit": "U24",
+    "part": 2,
+    "event": "姜家金店举报案显示黄金不等于不可追踪，姜黎守住客户事实与自己的隐私边界。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P072",
+    "unit": "U24",
+    "part": 3,
+    "event": "沈与贺、姜第一次在这次约定的碰面中正式认识；不同专业带来的争执比无因聚餐更有效。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P073",
+    "unit": "U25",
+    "part": 1,
+    "event": "陆沉与沈知薇意外重复同场，先记录概率异常，不立即说天意或幕后安排恋爱。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P074",
+    "unit": "U25",
+    "part": 2,
+    "event": "首位NPC以为到家自愿下车，记忆衰退暴露代价；六位玩家开始检查车票而非争抢牺牲对象。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P075",
+    "unit": "U25",
+    "part": 3,
+    "event": "顾环找到服务站循环，乔慎协调读票，程业藏起一页重要附注。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P076",
+    "unit": "U26",
+    "part": 1,
+    "event": "沈知薇提议承担下一次下车，被同伴指出这是替大家决定该欠谁一条命；她认真修正方案。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P077",
+    "unit": "U26",
+    "part": 2,
+    "event": "石铮放弃硬闯司机室，改查检修图；陆沉核验相同字迹之外的时间戳证据。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P078",
+    "unit": "U26",
+    "part": 3,
+    "event": "乔慎把NPC的愿望逐个写出来，发现取消一趟行程不等于取消一个人的未来。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P079",
+    "unit": "U27",
+    "part": 1,
+    "event": "沈知薇向赶回家的父亲解释错误路线，允许他反对，直到顾环提供他能亲自核对的记录。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P080",
+    "unit": "U27",
+    "part": 2,
+    "event": "程业试图卖最后一票引发失衡；陆沉救他，但要求他承担真实警戒责任，不一笔勾销。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P081",
+    "unit": "U27",
+    "part": 3,
+    "event": "全体逐人撤销的是本次指令，不是对家的愿望；沈的高光是尊重选择而非突然免费。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P082",
+    "unit": "U28",
+    "part": 1,
+    "event": "剩余动作是完成车内断开的验收联锁；六人的技能与NPC自愿协作共同让返程执行。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P083",
+    "unit": "U28",
+    "part": 2,
+    "event": "主目标结束运输兑现，六名玩家生还；被移除的NPC记录被保留，不写成什么都没发生。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P084",
+    "unit": "U28",
+    "part": 3,
+    "event": "两人第一次牵手，承认同场原因未知但相互选择已经真实；本体感余波另记，不拿来救场。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P085",
+    "unit": "U29",
+    "part": 1,
+    "event": "六人护送信标，仇明化身出场；陆沉怀疑对方像真人，只承认这是一种判断而非心跳证明。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P086",
+    "unit": "U29",
+    "part": 2,
+    "event": "五位新人物各完成一次运输、标记、维修或挡险，主线不是为独角戏空转。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P087",
+    "unit": "U29",
+    "part": 3,
+    "event": "仇明夺信标，却留下可达备用路线，陆沉发现他的压迫在迫使人观察接口。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P088",
+    "unit": "U30",
+    "part": 1,
+    "event": "六人利用备用通路夺回信标并取得主线回执，五人有权离场。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P089",
+    "unit": "U30",
+    "part": 2,
+    "event": "系统发布独立附加挑战及一次保护；陆沉自己决定继续，不把同伴当风险抵押。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P090",
+    "unit": "U30",
+    "part": 3,
+    "event": "他将信标加入能量换路测量，发现0.3秒空窗，但还缺能逼出那次换路的行动。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P091",
+    "unit": "U31",
+    "part": 1,
+    "event": "陆沉用实物和程序规则协同造成接口过载，迫使强敌选择防护或保住信标。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P092",
+    "unit": "U31",
+    "part": 2,
+    "event": "仇明最后露侧翼是有意的，但主角把他逼到选择点不在预设脚本中。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P093",
+    "unit": "U31",
+    "part": 3,
+    "event": "化身消失前留下再见之约；主角获得真实物品提领权，失眠与情绪反噬同步加深。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P094",
+    "unit": "U32",
+    "part": 1,
+    "event": "五位主线生还者的公开证言引发论坛轰动，陆沉不把他们的贡献抹去。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P095",
+    "unit": "U32",
+    "part": 2,
+    "event": "姜黎依据公开时序提出教官可能未死，明确标注推断不是内幕消息。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P096",
+    "unit": "U32",
+    "part": 3,
+    "event": "晋级资格开启，但必须通过身体适配与实物配置；主角不能此刻就在虚拟桌上重刻真实符文。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P097",
+    "unit": "U33",
+    "part": 1,
+    "event": "陆沉因迟到的情绪反应连正常骑行都无法集中，沈陪同但不把亲近当治疗。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P098",
+    "unit": "U33",
+    "part": 2,
+    "event": "贺骁从公开战报学习时问起五位运输者，主角第一次能准确说出他们的名字。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P099",
+    "unit": "U33",
+    "part": 3,
+    "event": "正式录取通知到达，搬家准备把日常从试炼余波中重新拉回来。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P100",
+    "unit": "U34",
+    "part": 1,
+    "event": "四人因不同专业录取同校，不因工蜂身份获特殊训练班；跨学科导论成为合法相处场。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P101",
+    "unit": "U34",
+    "part": 2,
+    "event": "养父母送别，弟弟的蓝窗画留在太湖；陆沉参与公开资料整理，首次看到0号实验室的封存索引。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P102",
+    "unit": "U34",
+    "part": 3,
+    "event": "沈知薇作为低年级观察助理进组，不直接独立行医；她提出青壮年异常事件记录课题。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P103",
+    "unit": "U35",
+    "part": 1,
+    "event": "沈收集自愿提供的家庭记录，发现突发死亡报告常在相同批次签发。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P104",
+    "unit": "U35",
+    "part": 2,
+    "event": "导师指出行政批量签发足以解释这一现象，她主动撤回过强结论，避免天才靠错误统计出真相。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P105",
+    "unit": "U35",
+    "part": 3,
+    "event": "陆沉的调度优化也被退回，两人的问题暂时并不同源，不能强行拼成系统阴谋。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P106",
+    "unit": "U36",
+    "part": 1,
+    "event": "二人把死亡发生时间与报告签发时间分开，重新设计观察；缺数据就是缺数据。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P107",
+    "unit": "U36",
+    "part": 2,
+    "event": "陆沉查到退回课题牵涉未公开的服务连续性需求，不再只把老师写成压天才的坏人。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P108",
+    "unit": "U36",
+    "part": 3,
+    "event": "姜黎指出连续调查已经提高风控等级，明确拒绝提供没有来源的全城数据。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P109",
+    "unit": "U37",
+    "part": 1,
+    "event": "四人完成一次面向低成本医疗调度的公开作业，各自解决一项主角无法包办的问题。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P110",
+    "unit": "U37",
+    "part": 2,
+    "event": "贺骁面对生活档封顶，选择不向普通赛场偷偷使用额外能力；姜黎第一次把朋友纳入无价账。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P111",
+    "unit": "U37",
+    "part": 3,
+    "event": "林越寄来普通农业信，沈提出周末看展，生活值得维护的原因直接呈现。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P112",
+    "unit": "U38",
+    "part": 1,
+    "event": "这是能力与库存适配复核，不是第七场单人试炼；系统只重述已获晋级资格和出勤要求。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P113",
+    "unit": "U38",
+    "part": 2,
+    "event": "陆沉比沈和贺早一个任务窗口进入新阶段；他不能把自己拿到的全部物资直接复制给他们。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P114",
+    "unit": "U38",
+    "part": 3,
+    "event": "二人约定失败也要如实记录，不为让对方放心而删掉风险，给中卷的知情承诺打底。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P115",
+    "unit": "U39",
+    "part": 1,
+    "event": "天台谈话把迁移调查分为资料与证据两线，贺和姜只参加自己同意的部分。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P116",
+    "unit": "U39",
+    "part": 2,
+    "event": "陆沉与沈承认感情在推进，但不在卷末突变热恋；第一次牵手已发生，不再重复首触。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P117",
+    "unit": "U39",
+    "part": 3,
+    "event": "匿名高权限操作将陆沉标为可培养的协调者，读者只见权限动作，不提前获全套蜂后真相。",
+    "target_chars": 3000,
+    "status": "todo"
+  },
+  {
+    "id": "P118",
+    "unit": "M01",
+    "part": 1,
+    "event": "陆沉领到实体刀具、有限弹药、初等接口板与仇明符文；提领权第一次变成有重量的东西。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P119",
+    "unit": "M01",
+    "part": 2,
+    "event": "他以为熟练动作可以照搬，发现1.15g、缺氧与真实背负同时压缩行动，先按低配额完成。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P120",
+    "unit": "M01",
+    "part": 3,
+    "event": "AR在快速转头时错位，陆沉记录而不宣布世界真假；首枚晶体显示运输损耗。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P121",
+    "unit": "M02",
+    "part": 1,
+    "event": "猎物储量诱人，返回路线却在涨温；主角第一次主动放弃超额奖励保留水和负重余量。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P122",
+    "unit": "M02",
+    "part": 2,
+    "event": "配发板有响应而他不会正确引导，战斗仍靠地形和工具，不能首次出勤就精神碾压。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P123",
+    "unit": "M02",
+    "part": 3,
+    "event": "他完成配额并申请缓存点撤回，发现完成早的人并不在城市多出几天。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P124",
+    "unit": "M03",
+    "part": 1,
+    "event": "接入后的饭菜、睡眠和街风与秘境各有差别，但差别只能支持两套呈现系统。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P125",
+    "unit": "M03",
+    "part": 2,
+    "event": "他调节模拟界面负荷复现延迟，得到一次重要阴性结论：卡顿本身不证明物理世界。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P126",
+    "unit": "M03",
+    "part": 3,
+    "event": "沈尚未出勤，他尊重她只听自己愿意听的风险，不以领先者身份替她决定。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P127",
+    "unit": "M04",
+    "part": 1,
+    "event": "体能维护与课程冲突，陆沉发现“同一套角色属性”仍需要看不见的维护时间。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P128",
+    "unit": "M04",
+    "part": 2,
+    "event": "贺骁、姜黎与沈知薇核对晋级说明，准备各自W29窗口的首次真实出勤；互换的是已结束的记录，不是跨场即时指挥。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P129",
+    "unit": "M04",
+    "part": 3,
+    "event": "周衡与文青加入定期资料核对，六人关系由有用的小事变稳，而非一次饭局自动生死与共。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P130",
+    "unit": "M05",
+    "part": 1,
+    "event": "沈向家人求证丢失记忆，父亲讲出停电楼道的事实；她知道了经过，却无法重新拥有当时的安心。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P131",
+    "unit": "M05",
+    "part": 2,
+    "event": "她拒绝一项声称能完整返还记忆的收费服务，把记录和真正的体验分开。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P132",
+    "unit": "M05",
+    "part": 3,
+    "event": "父女创造一次新的共同经历，陆沉不把技术解答当唯一安慰；家庭线独立完成小高潮。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P133",
+    "unit": "M06",
+    "part": 1,
+    "event": "陆沉与五名陌生参与者为三座模拟社区分配限额，目标是让可验证的基础生活指标达标。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P134",
+    "unit": "M06",
+    "part": 2,
+    "event": "最漂亮的总量优化会让一个小社区失去药品运输，局部损失被平均数遮住。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P135",
+    "unit": "M06",
+    "part": 3,
+    "event": "陆沉提出公开受影响者名单，遭到同场效率派反对；情节把模型价值选择摆上桌。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P136",
+    "unit": "M07",
+    "part": 1,
+    "event": "参与者验证新名册真伪，一名对手利用虚假重复登记骗配额；不是所有反对优化的人都正确。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P137",
+    "unit": "M07",
+    "part": 2,
+    "event": "主角拆分必需保障与竞争资源，留下申诉窗口，付出较低总分和自己的高级奖励。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P138",
+    "unit": "M07",
+    "part": 3,
+    "event": "一个不讨人喜欢的参与者也受其规则保护，证明他维护的是程序而非自己人。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P139",
+    "unit": "M08",
+    "part": 1,
+    "event": "方案通过硬指标但评分低，主角第一次正面承受正确行动未必拿最高奖励。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P140",
+    "unit": "M08",
+    "part": 2,
+    "event": "论坛把他称为保守派，姜黎核算这次声望争论不能兑成实际资源。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P141",
+    "unit": "M08",
+    "part": 3,
+    "event": "蜂后侧的匿名评语发现他保留了退出路径，开始把协调者潜力与绝对服从区分。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P142",
+    "unit": "M09",
+    "part": 1,
+    "event": "旧采集点出现霜猎迁徙，最亮的满载包成了追踪目标，地图评级未充分反映季相。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P143",
+    "unit": "M09",
+    "part": 2,
+    "event": "陆沉找到已被他人收割过的痕迹，却不能直接判定来自反抗者；自然共享区也可解释。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P144",
+    "unit": "M09",
+    "part": 3,
+    "event": "他转向低收益路线，仍被迫弃掉大部分晶体，带伤寻找有效走廊。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P145",
+    "unit": "M10",
+    "part": 1,
+    "event": "他修好机械备用定位，在信标有效后才成功整身撤回；失败不是按键离开肉体。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P146",
+    "unit": "M10",
+    "part": 2,
+    "event": "医疗与亏损追缴进入账本，低评级和记忆抑制被包装成高拟真负担。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P147",
+    "unit": "M10",
+    "part": 3,
+    "event": "他承认失败，不伪造采集量；以行动守住与沈的记录承诺。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P148",
+    "unit": "M11",
+    "part": 1,
+    "event": "陆沉凭旧照片知道那句话的字面内容，但无法找回对应情景，重复记忆代价又换了制度原因。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P149",
+    "unit": "M11",
+    "part": 2,
+    "event": "沈指出奖励归功于个人而失败被解释成生理必然的双重标准，两人第一次认真讨论可否拒绝任务。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P150",
+    "unit": "M11",
+    "part": 3,
+    "event": "周衡拿出自己既往处罚清单，表明长期顺从也不能换来明确终点。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P151",
+    "unit": "M12",
+    "part": 1,
+    "event": "模拟船坞即将停炉，任务是把可修复的载运装置送出，而不是消灭守卫。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P152",
+    "unit": "M12",
+    "part": 2,
+    "event": "每次重置会复位可见损伤但不退还已散失的热量，陆沉必须测能量而非只看外观。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P153",
+    "unit": "M12",
+    "part": 3,
+    "event": "同场者提出把未检查的残骸当新品，他必须冒掉分风险拆开验证。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P154",
+    "unit": "M13",
+    "part": 1,
+    "event": "参与者用残余热与不同冷却段完成真实可行的搬运方案，赢在时序而不是召唤额外燃料。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P155",
+    "unit": "M13",
+    "part": 2,
+    "event": "一名坚持利润最大化者提前离场，主角能救货物不能替他改变选择。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P156",
+    "unit": "M13",
+    "part": 3,
+    "event": "回归后，文青将副本当作系统教学样本，发现技能说明中刻意省掉的散热项。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P157",
+    "unit": "M14",
+    "part": 1,
+    "event": "磁岩边缘的显示与链路分别失效，陆沉用机械标尺和地形回到覆盖带。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P158",
+    "unit": "M14",
+    "part": 2,
+    "event": "危急时初等精神接口首次有效外放，消耗真实晶体；它不是无契约的纯意志奇迹。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P159",
+    "unit": "M14",
+    "part": 3,
+    "event": "安全后他断开AR显示做最小排错，查出旧维护注释来自兼容层，却留下一组无法解释的残余响应。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P160",
+    "unit": "M15",
+    "part": 1,
+    "event": "沈撤回只凭报告批次推死亡时间的判断，改查有自愿授权的外派与就诊顺序。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P161",
+    "unit": "M15",
+    "part": 2,
+    "event": "她发现个别病例的外派档案早于审批、注销却晚于关停，提示行政状态与生命状态并不相同。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P162",
+    "unit": "M15",
+    "part": 3,
+    "event": "陆沉愿意公开自己的负结果，六人的互助不再以谁永远聪明为基础。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P163",
+    "unit": "M16",
+    "part": 1,
+    "event": "封闭医院有有限床位、不同预后与互相冲突的同意书，陆沉与五名陌生参与者必须建立可执行分诊。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P164",
+    "unit": "M16",
+    "part": 2,
+    "event": "系统奖励优先恢复生产能力，沈在另一场的研究经验成为陆沉提前掌握的方法而非场外外挂。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P165",
+    "unit": "M16",
+    "part": 3,
+    "event": "陆沉不能替患者签牺牲书，只能把可选后果说清，反对者也得到同样的解释。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P166",
+    "unit": "M17",
+    "part": 1,
+    "event": "他们保住最低治疗、公开转诊代价并通过目标，却失去一批最高分产能指标。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P167",
+    "unit": "M17",
+    "part": 2,
+    "event": "一个参与者不愿把生还归功于主角，指出他仍掌握了提案的语言权，给其下一阶段领导埋压力。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P168",
+    "unit": "M17",
+    "part": 3,
+    "event": "回归后沈提出对自己的科研也用同样的退出制度，不接受以未来救人为由无限实验。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P169",
+    "unit": "M18",
+    "part": 1,
+    "event": "实体旧符文完成放电与签名撤销，陆沉用已有基础契约重建本地关系，不凭假死继承他人权利。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P170",
+    "unit": "M18",
+    "part": 2,
+    "event": "失败一次烧掉限额材料，成功版的效率低于原件，他不能把重获使用权吹成超越原主人。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P171",
+    "unit": "M18",
+    "part": 3,
+    "event": "配额完成后才有时间进入工坊遗迹，发现一批外形相近、工序不同的失败片。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P172",
+    "unit": "M19",
+    "part": 1,
+    "event": "陆沉先读得懂进出通路，再用重复刻记建立少量术语，不会突然全文理解古代语言。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P173",
+    "unit": "M19",
+    "part": 2,
+    "event": "某片撤回纹路仍影响下一步响应，材料疲劳是第一假说，主角不得跳过它。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P174",
+    "unit": "M19",
+    "part": 3,
+    "event": "一张生活用具旁的工序表表明类猿人并非只为战争造符文，文明有自己的日常。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P175",
+    "unit": "M20",
+    "part": 1,
+    "event": "携回拓片由文青和沈各从工具痕迹与生理用途切入，主角的第一种宗教解释被部分推翻。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P176",
+    "unit": "M20",
+    "part": 2,
+    "event": "有人把壁画当新攻略抢购，姜黎拒绝把自己未能核实的译文标成事实出售。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P177",
+    "unit": "M20",
+    "part": 3,
+    "event": "蜂后匿名接触陆沉，提供样品租赁但要求完整实验记录，交易有真实诱惑。租赁旧图纸的一处制图者栏保留0-0原型签章，仅显露编号，不解释身份。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P178",
+    "unit": "M21",
+    "part": 1,
+    "event": "课程考核、养父母探访与设备押金同时到期，双重生活不再只有升阶快感。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P179",
+    "unit": "M21",
+    "part": 2,
+    "event": "陆沉和沈明确建立亲密关系，不靠临死告白；他们同时约定任何研究参与都可撤回。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P180",
+    "unit": "M21",
+    "part": 3,
+    "event": "林越的婚讯抵达，备孕只是未来意向登记，正式资格仍须24岁。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P181",
+    "unit": "M22",
+    "part": 1,
+    "event": "陆沉与五名陌生参与者在模拟市场中处理同源记忆的不同继承人，任务是完成身份与债务清算。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P182",
+    "unit": "M22",
+    "part": 2,
+    "event": "卖方许诺“恢复死者”，展示的其实是旧记录的另一次执行；高拟真感情并不自动证明连续身份。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P183",
+    "unit": "M22",
+    "part": 3,
+    "event": "陆沉拒绝为便利把后来不同经历的对象合并成一人，第一次面对自己可能也是扫描后继者。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P184",
+    "unit": "M23",
+    "part": 1,
+    "event": "完成清算的代价是承认新增责任而非删除副本：资源预算更紧，评分更低，身份问题不被一刀简化。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P185",
+    "unit": "M23",
+    "part": 2,
+    "event": "主角把高置信假说向读者说清：公民世界很可能是模拟，高级试炼很可能是真实出勤，尚缺物理确认。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P186",
+    "unit": "M23",
+    "part": 3,
+    "event": "他不向公众发布未经证实的全套结论，但将足以影响同伴安全的部分告知五人。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P187",
+    "unit": "M24",
+    "part": 1,
+    "event": "在完成母树潮滩基础配额后，陆沉按预先封存的随机顺序测试样片，减少自己想看见奇迹的偏差。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P188",
+    "unit": "M24",
+    "part": 2,
+    "event": "同样工况中性格和善意不能解释结果，操作历史与个体响应更有预测力；他否定了自己的道德猜测。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P189",
+    "unit": "M24",
+    "part": 3,
+    "event": "实验得到低功率组织维持上的局部省能方向，不能称整个符文体系被重写。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P190",
+    "unit": "M25",
+    "part": 1,
+    "event": "母树满果能立刻补齐亏损，但守护群与幼株显示过量摘取会切断下一季供给。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P191",
+    "unit": "M25",
+    "part": 2,
+    "event": "陆沉完成最低采收、留下再生材料，放弃高奖励并记录不能由当季成绩衡量的损失。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P192",
+    "unit": "M25",
+    "part": 3,
+    "event": "局部维持器做出第一版，可减少封装过程的耗能，却需个体标定和售后。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P193",
+    "unit": "M26",
+    "part": 1,
+    "event": "换材料、控温、双符与三接口测试逐层排错，结果仍不足以证明终极解释。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P194",
+    "unit": "M26",
+    "part": 2,
+    "event": "主角保留阴性数据，承認上卷的七个孩子和七个站没有物理证明力，F7链首次主动去伪。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P195",
+    "unit": "M26",
+    "part": 3,
+    "event": "带回日志与少量合格产品，实验成本已经吃掉部分采集收益；得知知识也要付账。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P196",
+    "unit": "M27",
+    "part": 1,
+    "event": "产品通过系统实物挂单出售，下次出勤物流柜交接，不让phase2提前进入前哨市场。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P197",
+    "unit": "M27",
+    "part": 2,
+    "event": "一份不适配投诉迫使陆沉退钱并承认局部优化条件，姜黎坚持不把失败藏掉保护声誉。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P198",
+    "unit": "M27",
+    "part": 3,
+    "event": "维持器的小收益帮他建立独立议价能力，但还远不足以供养任何文明。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P199",
+    "unit": "M28",
+    "part": 1,
+    "event": "金豆消息的一段中继失效，失去的是验证窗口而非神秘人万能补发；陆沉带着不完整线索入新场。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P200",
+    "unit": "M28",
+    "part": 2,
+    "event": "返还馆声称可以归还最重要之物，实则只能提供有记录的复制物或描述，参与者必须辨清可退还的种类。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P201",
+    "unit": "M28",
+    "part": 3,
+    "event": "主角拒绝把模拟出来的母亲当作亲生母亲的当前存在，关心对方表现却不接受证据偷换。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P202",
+    "unit": "M29",
+    "part": 1,
+    "event": "通关需要核验物品来源并拒绝无法履约的交换，不是把一切温情都宣布虚假。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P203",
+    "unit": "M29",
+    "part": 2,
+    "event": "陆沉取得合法公开的载体目录交叉索引，确认0号实验室不只是普通档案室，但仍未见完整身世文件。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P204",
+    "unit": "M29",
+    "part": 3,
+    "event": "沈再次说明知道旧经历与恢复旧体验不同，感情线不重复用失忆制造误会。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P205",
+    "unit": "M30",
+    "part": 1,
+    "event": "矿脉暗层出勤揭示高纯晶体依赖旧沉积，产量下降不只是猎手不努力。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P206",
+    "unit": "M30",
+    "part": 2,
+    "event": "长时间弱耦合累积校正开销，陆沉主动中止实验，丢掉一批昂贵样品和最想拿到的结果。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P207",
+    "unit": "M30",
+    "part": 3,
+    "event": "信号特征和耗能同时上升，第一次把研究自由与文明隐蔽变成可测代价。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P208",
+    "unit": "M31",
+    "part": 1,
+    "event": "租赁样片归还并核算；陆沉把成果限制为特定维持工况8%—12%节流，不用天才跨越六年研究的夸口。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P209",
+    "unit": "M31",
+    "part": 2,
+    "event": "蜂后匿名邀请他承担更大协调任务，报价改善家人便利却不许兑信用点，诱惑来自真实资源而非规则漏洞。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P210",
+    "unit": "M31",
+    "part": 3,
+    "event": "他要求先看持续服役的退出条件，对方只提供模糊的晋升描述。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P211",
+    "unit": "M32",
+    "part": 1,
+    "event": "六人交叉比较自己的任务、处罚和外派记录，形成共同的风险判断，但保留分歧。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P212",
+    "unit": "M32",
+    "part": 2,
+    "event": "周衡最担心女儿，文青最担心自己拖累人，贺骁反对把猜测当保命保证，沈要求一人一份记录。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P213",
+    "unit": "M32",
+    "part": 3,
+    "event": "他们约定不拿同伴不知情的生命验证假说；陆沉明确接受这一约束，包括对自己。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P214",
+    "unit": "M33",
+    "part": 1,
+    "event": "模拟保全庭争夺的是谁有权销毁账与谁可要求暂停执行，主目标为保住完整的异议材料。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P215",
+    "unit": "M33",
+    "part": 2,
+    "event": "陆沉赢得合法留存而不是黑入系统取得万能根权限，拿到能用于审查的规范片段。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P216",
+    "unit": "M33",
+    "part": 3,
+    "event": "规范显示“公民接入终止”与“生命支持终止”并非同一条操作，六人假说显著增强但仍非保证。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P217",
+    "unit": "M34",
+    "part": 1,
+    "event": "猎场配额建立在过时丰度上，陆沉必须在假报达标与真实低收益之间选一个。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P218",
+    "unit": "M34",
+    "part": 2,
+    "event": "他带回不够的晶体和可复核的生态损耗记录，沈与文青为其构建反证，不让这次失败归咎于懒惰。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P219",
+    "unit": "M34",
+    "part": 3,
+    "event": "系统批量终期考核开始，六人分别整理家人安排；相互同意只针对具体风险，不交空白授权。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P220",
+    "unit": "M35",
+    "part": 1,
+    "event": "十二个六人单元进入终期站，生还席位和供能缺口逐步暴露；主角先验证正常生路确实存在。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P221",
+    "unit": "M35",
+    "part": 2,
+    "event": "六人各自在救援与抢出口之间作决定，部分人因此失去自己的可达出口；不能都归为陆沉偷偷选择。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P222",
+    "unit": "M35",
+    "part": 3,
+    "event": "剩余生路与重伤者争夺资源，陆沉公开自己对死亡转任的高置信推断及不可排除的真死风险。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P223",
+    "unit": "M36",
+    "part": 1,
+    "event": "陆沉放弃入席，把完整凭证穿过关站站段送到单元01，交给仍能进入最后一席的伤者祁霁；五人知道他的计划与风险，不被隐瞒带去死。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P224",
+    "unit": "M36",
+    "part": 2,
+    "event": "五人在已失去各自出口后接手代维缓冲联锁，拒绝不受道德贬低；陆沉独自走向避难覆盖外的核心缓冲区，把验证死亡转任的试金石换成自己——假说若错，核心只杀死他一个。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P225",
+    "unit": "M36",
+    "part": 3,
+    "event": "祁霁的席位实际兑现并保存回执，其余七十一人虚拟失败转任；陆沉从核心区活着走出关站，系统分别登记不同退出方式。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P226",
+    "unit": "D01",
+    "part": 1,
+    "event": "六人在真实身体中醒来，前哨宣布原公民身份终止；真正通关者也被行政转任，刺破“赢就自由”。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P227",
+    "unit": "D01",
+    "part": 2,
+    "event": "沈核对持续的伤痕、设备号和生理记录，真身连续性获得证据，主角不装作这时才第一次想到真相。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P228",
+    "unit": "D01",
+    "part": 3,
+    "event": "贺骁当面问出清算——你早就猜到死不了，为什么眼看着我们选；陆沉只答“拦你们等于替你们选”，这句话没有抚平怒气。旧公民死亡记录已送达亲友，他们不能立刻冲回去告诉所有人自己活着。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P229",
+    "unit": "D02",
+    "part": 1,
+    "event": "陆沉以已达标等级申请建队，五人逐个同意；分成、医疗公款和退出权写清。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P230",
+    "unit": "D02",
+    "part": 2,
+    "event": "贺骁带着清算余怒同意入队，不愿所有危险都让队长第一；周衡提出不能把家属查询当奖励，第一场分歧没有靠感动跳过。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P231",
+    "unit": "D02",
+    "part": 3,
+    "event": "六人选标准团队房而非装阔，第一次真正共同承担账单。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P232",
+    "unit": "D03",
+    "part": 1,
+    "event": "仇明以外部观察者身份重逢，说明化身、提领权和0.3秒工程空窗，不成为第七个队员。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P233",
+    "unit": "D03",
+    "part": 2,
+    "event": "主角承认自己的宇宙统一解释曾错，也要求对方承认设计过压力；胜利不能全被“我故意的”收走。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P234",
+    "unit": "D03",
+    "part": 3,
+    "event": "仇明给出真名邵闻川与可查的旧工单，但拒绝交出自己并不知道的蜂后全部意图。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P235",
+    "unit": "D04",
+    "part": 1,
+    "event": "第一场小队采集遇见铆钉队抢先占点，对方效率高但不纯恶，主角不能靠嘴炮取得物资。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P236",
+    "unit": "D04",
+    "part": 2,
+    "event": "贺骁主动放下自己能多背的晶体去接文青的负重，既不逞强也不把照顾写成数值补正。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P237",
+    "unit": "D04",
+    "part": 3,
+    "event": "小队按保守配额成功返回，收益不足以解决长期医疗债，合作与资源账一同成立。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P238",
+    "unit": "D05",
+    "part": 1,
+    "event": "前哨医院急救能保命，长期再生却要积累配额；沈不能凭大学一年级身份接管医院。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P239",
+    "unit": "D05",
+    "part": 2,
+    "event": "她从记录、包扎和申请随诊开始，与医生季芩共同整理等待名单。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P240",
+    "unit": "D05",
+    "part": 3,
+    "event": "一次低功率维持器帮助一人撑过等待，却不能让所有重伤者免费痊愈；祁霁陪他单元01的旧队友排在等待名单里，两个单元的走动从医院开始。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P241",
+    "unit": "D06",
+    "part": 1,
+    "event": "沈将自愿者的持续生理记录与任务前后修复记录对上，证明死亡登记并不等于真实脑死亡。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P242",
+    "unit": "D06",
+    "part": 2,
+    "event": "她严守资料用途，不把所有病人的私密记录打包交给反抗者；调查第一次有真实的伦理边界。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P243",
+    "unit": "D06",
+    "part": 3,
+    "event": "陆沉看清复制—接入—身份注销的分层，亲生父母问题因此更尖锐而非已解。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P244",
+    "unit": "D07",
+    "part": 1,
+    "event": "陆沉获准短暂接入，使用临时身份，不能冒认复活或私自联系家属。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P245",
+    "unit": "D07",
+    "part": 2,
+    "event": "他看到林越公开的农业记录与未来生育意向，知道朋友正在哀悼自己，却没有权把监控当团聚。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P246",
+    "unit": "D07",
+    "part": 3,
+    "event": "通过合法查询核对U12老师与三名入门退出者仍在正常生活，关闭早期去向悬念。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P247",
+    "unit": "D08",
+    "part": 1,
+    "event": "轮值维修让文青发现生活区泵管与生产用能不匹配，地下可能有远超前哨人口的负载。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P248",
+    "unit": "D08",
+    "part": 2,
+    "event": "蜜城的登记权影射回响，但地下一层位置不能仅靠同构猜出，必须追旧工程图。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P249",
+    "unit": "D08",
+    "part": 3,
+    "event": "主角决定先取合法检修资料而非打穿地板，避免以真相为名危及未知对象。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P250",
+    "unit": "D09",
+    "part": 1,
+    "event": "铆钉队与主角队争母树采收权；先标者长期圈点而不复育，使旧惯例出现真实矛盾。铆钉队中出现预算听证时退场的唐嵘，证实阶段分流，也迫使陆沉修正对效率派的简单判断。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P251",
+    "unit": "D09",
+    "part": 2,
+    "event": "姜黎提出限时占用与公开收获记录，必须先让自己队放弃一个圈下的点，规则对己有效。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P252",
+    "unit": "D09",
+    "part": 3,
+    "event": "临时仲裁赢得稳定采收而非独占财富，灰鹭队愿意试用但不宣誓追随。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P253",
+    "unit": "D10",
+    "part": 1,
+    "event": "一名死者的装备和余额引出遗产争议，队友、伴侣与公共预算各有合理诉求。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P254",
+    "unit": "D10",
+    "part": 2,
+    "event": "姜黎展示50%上缴只是债权重分配，不会再凭空增加晶体；主角第一次能把制度利益说清。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P255",
+    "unit": "D10",
+    "part": 3,
+    "event": "他们取得一份旧编号工单而非秘密武器，代价是替死者家属垫付查询费用。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P256",
+    "unit": "D11",
+    "part": 1,
+    "event": "高危勘测要求先修锚点再步行，六人分担补给，不能在一夜间从前哨飞到遗迹中心。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P257",
+    "unit": "D11",
+    "part": 2,
+    "event": "途中遇到低价值但必须救助的失散测绘者，保住人使任务收益下降。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P258",
+    "unit": "D11",
+    "part": 3,
+    "event": "抵达外围发现多数器物关乎蓄水、照护和运输，先民不只是供蜂巢解谜的背景板。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P259",
+    "unit": "D12",
+    "part": 1,
+    "event": "两处工坊保存了相似的工序残差记号，文青提出技术解释，沈提出生理解释。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P260",
+    "unit": "D12",
+    "part": 2,
+    "event": "陆沉允许互相竞争的译法保留，不能靠精神力宣布哪一个是真。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P261",
+    "unit": "D12",
+    "part": 3,
+    "event": "得到低功率复验线索，同时看到类猿人无法激活繁育接口却能正常生育的直接物证。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P262",
+    "unit": "D13",
+    "part": 1,
+    "event": "原先被读成祭祀的场景其实是术后护理，错误译文已在前哨流传并抬高假文物价格。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P263",
+    "unit": "D13",
+    "part": 2,
+    "event": "姜黎主动撤回出售过的推断并承担退款，守住信誉不靠从未犯错。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P264",
+    "unit": "D13",
+    "part": 3,
+    "event": "正确译法来自不同材料的互证，古文明研究获得一次真正的认识回报。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P265",
+    "unit": "D14",
+    "part": 1,
+    "event": "地震后的深窟改道，旧地图不足，队伍依赖测绘和留守节点，无法靠高强度一路轰开。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P266",
+    "unit": "D14",
+    "part": 2,
+    "event": "周衡为找回一位失联者偏离预案，必须及时告知而非复制主角旧稿的秘密救人。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P267",
+    "unit": "D14",
+    "part": 3,
+    "event": "他们保住人却失去部分拓片和设备，洞内末日遗留与蜂巢支持仓形成可感的对照。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P268",
+    "unit": "D15",
+    "part": 1,
+    "event": "遗迹损伤方向、材料变化与天文记录共同支持外来清除事件，不能只靠断碑一句话证明黑暗森林。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P269",
+    "unit": "D15",
+    "part": 2,
+    "event": "陆沉承认蜂后的隐蔽焦虑有现实对象，但反对把未知动机说成不可讨论的宇宙律。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P270",
+    "unit": "D15",
+    "part": 3,
+    "event": "小队带回证据，选择不公开可定位的原始发射结构，公开风险理由和暂缓期限。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P271",
+    "unit": "D16",
+    "part": 1,
+    "event": "系统要求找回断链者与器材，目标信息把病人和武装者混为一类，六人必须核验。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P272",
+    "unit": "D16",
+    "part": 2,
+    "event": "磁岩边缘的足迹与中卷标记相互印证，反抗线从猜测进入可追溯行动。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P273",
+    "unit": "D16",
+    "part": 3,
+    "event": "他们拒绝先开火，在任务允许的回收谈判范围内尝试联系，不靠突然良心醒悟取消全部危险。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P274",
+    "unit": "D17",
+    "part": 1,
+    "event": "沈坚持先处理伤员而非逼其签回归书，周衡担心违反任务会影响家属查询。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P275",
+    "unit": "D17",
+    "part": 2,
+    "event": "伤员证明早年的死亡注销和当下身体支持属于两套账，补足政治指控的实物部分。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P276",
+    "unit": "D17",
+    "part": 3,
+    "event": "六人以完整记录申请任务改判，失去原奖金但不把救人伪报成击杀。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P277",
+    "unit": "D18",
+    "part": 1,
+    "event": "主角首次正面接触拾遗会，看到净水、伤员、种床和有限库存，不是无所不能的地下军团。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P278",
+    "unit": "D18",
+    "part": 2,
+    "event": "温和派乔砚给出材料，技术负责人岑渡要求独立复验，明灯派领袖陶烈要求立即公开。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P279",
+    "unit": "D18",
+    "part": 3,
+    "event": "各方先就食物与医疗互换谈成一件小事，信任来自履约而非站同一口号。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P280",
+    "unit": "D19",
+    "part": 1,
+    "event": "三派分别代表渐进知情、立即公开、维持小据点生存的诉求；任何一路都有具体受损者。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P281",
+    "unit": "D19",
+    "part": 2,
+    "event": "陆沉拒绝把全体公民当尚未作答的支持票，也拒绝以他们未反抗证明他们同意。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P282",
+    "unit": "D19",
+    "part": 3,
+    "event": "拟定有限实验：只向自愿参与者说明基本事实，并记录拒绝和退出。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P283",
+    "unit": "D20",
+    "part": 1,
+    "event": "自愿听取者不按英雄期待表态，有人接受模拟生活，有人愤怒，也有人只关心家属安全。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P284",
+    "unit": "D20",
+    "part": 2,
+    "event": "林越的意象被扩展为真实的不同选择，主角承认选择权不是所有人最终选择他那条路。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P285",
+    "unit": "D20",
+    "part": 3,
+    "event": "试点遇到外传风险，公开范围暂时收缩但理由与期限被保留，不能再次无限保密。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P286",
+    "unit": "D21",
+    "part": 1,
+    "event": "岑渡答应以独立设备重复异常实验，条件是全部失败数据公开并有随时停机权。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P287",
+    "unit": "D21",
+    "part": 2,
+    "event": "沈将生理记录和研究同意分开管理，文青准备不依赖AR的机械测量。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P288",
+    "unit": "D21",
+    "part": 3,
+    "event": "陆沉不再同时担任唯一操作者、解释者和裁判，失去个人掌控却换来更可信的知识。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P289",
+    "unit": "D22",
+    "part": 1,
+    "event": "第二套器材复现路径残差，部分组别没有复现，结果以适用范围和不确定性呈现。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P290",
+    "unit": "D22",
+    "part": 2,
+    "event": "高维解释仍未获证，六通道模型需要扩展却未被全盘推翻；主角得到知识而非隐藏职业。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P291",
+    "unit": "D22",
+    "part": 3,
+    "event": "蜂后收到独立结果，第一次不能只把异常归为陆沉个人适配问题。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P292",
+    "unit": "D23",
+    "part": 1,
+    "event": "在有材料、账户和共同同意的准备后，三符共鸣形成独立镜像，启动代价吃掉一部分储备。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P293",
+    "unit": "D23",
+    "part": 2,
+    "event": "镜像只继承启动前有限结构，醒来后面对不同输入，自称陆照，不接受被当作原主远程器官。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P294",
+    "unit": "D23",
+    "part": 3,
+    "event": "沈把她列为独立被照护者而不是情敌，主角必须承担创造生命后的现实责任。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P295",
+    "unit": "D24",
+    "part": 1,
+    "event": "获取的匹配记录证明零点列车曾受干预，生日相同及其他相识并非整套编造。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P296",
+    "unit": "D24",
+    "part": 2,
+    "event": "陆与沈重新审视对彼此的选择，拒绝让一次安排夺走所有共同经历的真实性。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P297",
+    "unit": "D24",
+    "part": 3,
+    "event": "神秘人迟客显露超出拾遗会范围的知识，但没有披露身份，也未替队伍解开权限。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P298",
+    "unit": "D25",
+    "part": 1,
+    "event": "陆照拒绝为提高整体能力而合并，陆沉承认合并请求不是本体天然权利。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P299",
+    "unit": "D25",
+    "part": 2,
+    "event": "独立生活需要预算、训练和工作，她也不能只以人格主张免除全部责任。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P300",
+    "unit": "D25",
+    "part": 3,
+    "event": "双方约定协作而不合体，主动放弃一次潜在战力飞跃，主题落在实物与人事安排。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P301",
+    "unit": "D26",
+    "part": 1,
+    "event": "持续放大残差使校正负荷、设备热量与签名泄漏共同上升，危险不因低峰功率而消失。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P302",
+    "unit": "D26",
+    "part": 2,
+    "event": "陆沉在最接近新结果时停机，损失样品与部分可用模块；不以危及公众来证明自己正确。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P303",
+    "unit": "D26",
+    "part": 3,
+    "event": "蜂后也不能凭控制权直接抹掉余波，需要双方协作处理，显示知识和权力的差别。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P304",
+    "unit": "D27",
+    "part": 1,
+    "event": "生态衰退、矿层品质变化与维护停机叠加，正常余量消失；危机有前三卷持续证据，不由坏人按按钮凭空产生。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P305",
+    "unit": "D27",
+    "part": 2,
+    "event": "主角把个人节流技术放进总账，承认它只能填一部分缺口；反抗者不能以口号产出能源。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P306",
+    "unit": "D27",
+    "part": 3,
+    "event": "多支小队开始有限共享采收与维修数据，祁霁与他终期单元的旧同伴组队加入，谈判有了实物筹码。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P307",
+    "unit": "D28",
+    "part": 1,
+    "event": "陶烈计划占用观测链路发布完整档案，他的目标是不可收回的公开，不是因为疯所以毁灭。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P308",
+    "unit": "D28",
+    "part": 2,
+    "event": "方案却会暴露定位结构并挤占预警资源，主角提供替代披露窗口，被质疑只是拖延。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P309",
+    "unit": "D28",
+    "part": 3,
+    "event": "陶烈内部有人拒绝绑架伤员作筹码，阵营出现真实分裂，不全体沦为反派。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P310",
+    "unit": "D29",
+    "part": 1,
+    "event": "文青用D08维护单与D14损失后的补测定位备用通道，岑渡核对其中不能靠图纸保证安全的段落。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P311",
+    "unit": "D29",
+    "part": 2,
+    "event": "神秘人提供一个可验证的旧维修时段，不给万能钥匙；仇明申请保护资料与支持对象的有限授权。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P312",
+    "unit": "D29",
+    "part": 3,
+    "event": "队伍分别去保散热、留证据和保护医疗，陆沉不能同时赢下全部战线。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P313",
+    "unit": "D30",
+    "part": 1,
+    "event": "仇明协助抢修时严重受伤，同一副真实身体不能像三号场化身那样重置。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P314",
+    "unit": "D30",
+    "part": 2,
+    "event": "沈与季芩按有限材料稳定他，陆沉必须放弃追击明灯派去保障救援通道。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P315",
+    "unit": "D30",
+    "part": 3,
+    "event": "他活下来但失去长期外勤能力，旧“死必须有价值”转为“活着也不用不断证明”；同一轮抢修里，祁霁与他终期单元的旧同伴顶上被拆联锁拖累的散热段，死于过热事故——让席保下来的命，也没有第二副。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P316",
+    "unit": "D31",
+    "part": 1,
+    "event": "一部分监控审计记录在事故中损毁，主角不能靠后来神秘备份把选择的代价全部拿回。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P317",
+    "unit": "D31",
+    "part": 2,
+    "event": "他们保住生命支持和关键来源索引，接受某些指控暂时无法证明，反对用合理猜测替代事实。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P318",
+    "unit": "D31",
+    "part": 3,
+    "event": "迟客帮助局部封堵后离开，身份暗示保留，行动并未包办救援。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P319",
+    "unit": "D32",
+    "part": 1,
+    "event": "陆沉核验代签记录、扫描时间和0号载体批次，确认童年不是模板，亲生父母也不是实验室伪造。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P320",
+    "unit": "D32",
+    "part": 2,
+    "event": "父母未获自身承载席位但为孩子签署备份；终战记录给出最后去向，不伪称实时看见他们现在。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P321",
+    "unit": "D32",
+    "part": 3,
+    "event": "冷静改造施加在载体脑适配方案上，未经本人同意的设计被伪记污染；蜂后后来利用它，不是创造了他全部人生。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P322",
+    "unit": "D33",
+    "part": 1,
+    "event": "联合采收、局部维持节流、医疗降峰与阶段性库存释放组成可执行过冬方案，改进逐项列出代价。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P323",
+    "unit": "D33",
+    "part": 2,
+    "event": "拾遗会有一处据点必须迁移，前哨部分人延后住房升级，大家都付出而非只有女一奉献。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P324",
+    "unit": "D33",
+    "part": 3,
+    "event": "蜂后拿到比压迫旧方案更有韧性的有限证据，谈判因此有现实基础，尚不是解决永恒能源。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P325",
+    "unit": "D34",
+    "part": 1,
+    "event": "使用已核验密道和有限许可进入地下，六人分工保障外部系统，不能任由谈判中断救援。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P326",
+    "unit": "D34",
+    "part": 2,
+    "event": "主角亲眼见支持仓与模拟接口，完成城市虚拟的最终物理确认，同时看见维持它的具体劳动。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P327",
+    "unit": "D34",
+    "part": 3,
+    "event": "他将可公开的证据副本交由不同主体保管，不把自己变成新的唯一知情者。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P328",
+    "unit": "D35",
+    "part": 1,
+    "event": "对质保留灾难、地狱与后悔三个核心提问，但不再让陆沉秘密带朋友求死成为未经批判的事实。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P329",
+    "unit": "D35",
+    "part": 2,
+    "event": "蜂后展示单向存储证据和供能账，陆沉承认安全约束，区分它们与强制销毁、虚假服役的政策。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P330",
+    "unit": "D35",
+    "part": 3,
+    "event": "她承认观察过反抗者，同时说清无法预测事故与独立实验；不是所有人的成功都在她计划中。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P331",
+    "unit": "D36",
+    "part": 1,
+    "event": "陆沉不因理解而宣布原谅，蜂后也不因一次演讲瞬间成为慈母；双方开始谈可验证的权限改变。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P332",
+    "unit": "D36",
+    "part": 2,
+    "event": "公开支持账、暂停争议性销毁、明示试炼退出规则、独立医疗记录与自愿知情入口进入有限协议。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P333",
+    "unit": "D36",
+    "part": 3,
+    "event": "历史责任调查保留，明灯派行为按具体伤害区分，反对意见本身不作为清洗理由。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P334",
+    "unit": "D37",
+    "part": 1,
+    "event": "试点先覆盖60名工蜂与少量自愿家属，不承诺一亿人明天都有身体或立即进入真实世界。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P335",
+    "unit": "D37",
+    "part": 2,
+    "event": "多方持有审计副本和应急物资，重要操作留共同记录；蜂后仍可违约，但无法再悄悄让违约不存在。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P336",
+    "unit": "D37",
+    "part": 3,
+    "event": "出生配额、培养成本与医疗排期公开引出新的不满，改革不是没有损失的奖励结算。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P337",
+    "unit": "D38",
+    "part": 1,
+    "event": "周衡帮助一名伤残工蜂拒绝高危采集，系统必须执行替代轮值，不再把拒绝记成新的罪债。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P338",
+    "unit": "D38",
+    "part": 2,
+    "event": "收入下降和岗位有限依然存在，他获得的不是无代价安逸，而是不被胁迫的有限选择。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P339",
+    "unit": "D38",
+    "part": 3,
+    "event": "仇明成为第一批长期退勤者，以真名作证，人物线以活着承担责任而非强行壮烈收束。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P340",
+    "unit": "D39",
+    "part": 1,
+    "event": "陆沉经试点正式告知林越自己仍活着及世界基本事实，不冒认陌生身份偷偷操控朋友生活。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P341",
+    "unit": "D39",
+    "part": 2,
+    "event": "林越愤怒于被瞒，随后选择暂住模拟世界、不继续读取全部危险细节；选择出于他而非蜂后或主角。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P342",
+    "unit": "D39",
+    "part": 3,
+    "event": "他仍谈西瓜和未来的家庭，这些不因知情失去价值；深层资料入口为以后保留。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P343",
+    "unit": "D40",
+    "part": 1,
+    "event": "独立小组继续低风险复验，确认异常存在但终极解释仍不足；主角不在结果中自封救世主。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P344",
+    "unit": "D40",
+    "part": 2,
+    "event": "深空威胁继续逼近，蜂后承认不能从残差上升直接推出对方已发现蜂巢。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P345",
+    "unit": "D40",
+    "part": 3,
+    "event": "各方公开承受未知的限度，冻结放大试验；未来风险保留，已承诺事实不拖成下一部才解释。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P346",
+    "unit": "D41",
+    "part": 1,
+    "event": "小队不再必须永远六人同进同退：文青维护测量站、沈推进医疗、贺训练自愿新人、姜维护公开交易信誉。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P347",
+    "unit": "D41",
+    "part": 2,
+    "event": "周衡争取亲属联系，陆照独立选择研究工作，陆沉从唯一指挥者转为可被替换的协调者。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P348",
+    "unit": "D41",
+    "part": 3,
+    "event": "他们约定下一次自愿采集，具体生活重返结尾，不把制度成果留作抽象旁白。陆沉的睡眠有所改善，仍保留高负荷后的余波，不把接受真相写成一夜痊愈。",
+    "target_chars": 3334,
+    "status": "todo"
+  },
+  {
+    "id": "P349",
+    "unit": "D42",
+    "part": 1,
+    "event": "蓝色儿童画所在家庭收到真实的访问请求，蜂后必须等对方允许，而不是直接放大监控画面占有生活。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P350",
+    "unit": "D42",
+    "part": 2,
+    "event": "陆沉留在真实世界但不贬低模拟家园，林越来信和养母问候都通过试行的可撤回渠道。",
+    "target_chars": 3333,
+    "status": "todo"
+  },
+  {
+    "id": "P351",
+    "unit": "D42",
+    "part": 3,
+    "event": "蜂后对自己的称呼只在此落下一次“零”；读者可保留多读，作者不把它当第七钥匙。",
+    "target_chars": 3334,
+    "status": "todo"
+  }
 ]
