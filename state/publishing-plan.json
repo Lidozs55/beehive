@@ -661,7 +661,7 @@
     "part": 2,
     "event": "主目标结束运输兑现，六名玩家生还；被移除的NPC记录被保留，不写成什么都没发生。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P084",
