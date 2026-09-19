@@ -653,7 +653,7 @@
     "part": 1,
     "event": "剩余动作是完成车内断开的验收联锁；六人的技能与NPC自愿协作共同让返程执行。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P083",
