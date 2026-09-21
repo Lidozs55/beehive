@@ -485,7 +485,7 @@
     "part": 1,
     "event": "一次付费私聊真切消耗声核，堵上原稿无限免费沟通的漏洞；短纸条与手势进入战术。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P062",
@@ -493,7 +493,7 @@
     "part": 2,
     "event": "姜黎统计路线，文青试接分时供能，两人都需要他人的配合才能验证。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P063",
@@ -501,7 +501,7 @@
     "part": 3,
     "event": "杜垣藏核，陶芸返回拿遗物；一条本可安全的撤离路线因此错过窗口。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P064",
@@ -509,7 +509,7 @@
     "part": 1,
     "event": "姜黎把尚未卖出的安全窗口免费交给同行者；她的选择有效但没有神秘地逆转全部危险。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P065",
@@ -517,7 +517,7 @@
     "part": 2,
     "event": "杜与陶回不来，陆沉必须承认地面震动只覆盖局部，不能假装自己早知所有位置。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P066",
@@ -525,7 +525,7 @@
     "part": 3,
     "event": "关闭输入后出现的短暂余感与危机无直接解题关系，被单独写进记录等待排查。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P067",
@@ -533,7 +533,7 @@
     "part": 1,
     "event": "文青分路、于沛辨节律、姜黎安排交接、陆沉保护节点，四人把碎核接成连续输入。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P068",
@@ -541,7 +541,7 @@
     "part": 2,
     "event": "城市恢复声音，姜黎不接受把伤亡写成自己一次免费就赎清；关系因此更深而非更轻。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P069",
@@ -549,7 +549,7 @@
     "part": 3,
     "event": "等级与装备资格增长，真实死者仍只有杜与陶，名册不再出现新人丙。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P070",
@@ -557,7 +557,7 @@
     "part": 1,
     "event": "贺骁替被冤同学出头后主动提交对自己不利的监控段，陆沉帮助完整还原，而非黑入删除打人证据。",
     "target_chars": 3000,
-    "status": "done"
+    "status": "written"
   },
   {
     "id": "P071",
@@ -565,7 +565,7 @@
     "part": 2,
     "event": "姜家金店举报案显示黄金不等于不可追踪，姜黎守住客户事实与自己的隐私边界。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P072",
@@ -573,7 +573,7 @@
     "part": 3,
     "event": "沈与贺、姜第一次在这次约定的碰面中正式认识；不同专业带来的争执比无因聚餐更有效。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P073",
@@ -581,7 +581,7 @@
     "part": 1,
     "event": "陆沉与沈知薇意外重复同场，先记录概率异常，不立即说天意或幕后安排恋爱。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P074",
@@ -589,7 +589,7 @@
     "part": 2,
     "event": "首位NPC以为到家自愿下车，记忆衰退暴露代价；六位玩家开始检查车票而非争抢牺牲对象。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P075",
@@ -597,7 +597,7 @@
     "part": 3,
     "event": "顾环找到服务站循环，乔慎协调读票，程业藏起一页重要附注。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P076",
@@ -605,7 +605,7 @@
     "part": 1,
     "event": "沈知薇提议承担下一次下车，被同伴指出这是替大家决定该欠谁一条命；她认真修正方案。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P077",
@@ -613,7 +613,7 @@
     "part": 2,
     "event": "石铮放弃硬闯司机室，改查检修图；陆沉核验相同字迹之外的时间戳证据。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P078",
@@ -621,7 +621,7 @@
     "part": 3,
     "event": "乔慎把NPC的愿望逐个写出来，发现取消一趟行程不等于取消一个人的未来。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P079",
@@ -629,7 +629,7 @@
     "part": 1,
     "event": "沈知薇向赶回家的父亲解释错误路线，允许他反对，直到顾环提供他能亲自核对的记录。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P080",
@@ -637,7 +637,7 @@
     "part": 2,
     "event": "程业试图卖最后一票引发失衡；陆沉救他，但要求他承担真实警戒责任，不一笔勾销。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P081",
@@ -645,7 +645,7 @@
     "part": 3,
     "event": "全体逐人撤销的是本次指令，不是对家的愿望；沈的高光是尊重选择而非突然免费。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P082",
@@ -653,7 +653,7 @@
     "part": 1,
     "event": "剩余动作是完成车内断开的验收联锁；六人的技能与NPC自愿协作共同让返程执行。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P083",
@@ -661,7 +661,7 @@
     "part": 2,
     "event": "主目标结束运输兑现，六名玩家生还；被移除的NPC记录被保留，不写成什么都没发生。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P084",
@@ -669,7 +669,7 @@
     "part": 3,
     "event": "两人第一次牵手，承认同场原因未知但相互选择已经真实；本体感余波另记，不拿来救场。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P085",
@@ -677,7 +677,7 @@
     "part": 1,
     "event": "六人护送信标，仇明化身出场；陆沉怀疑对方像真人，只承认这是一种判断而非心跳证明。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P086",
@@ -685,7 +685,7 @@
     "part": 2,
     "event": "五位新人物各完成一次运输、标记、维修或挡险，主线不是为独角戏空转。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P087",
@@ -693,7 +693,7 @@
     "part": 3,
     "event": "仇明夺信标，却留下可达备用路线，陆沉发现他的压迫在迫使人观察接口。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P088",
@@ -701,7 +701,7 @@
     "part": 1,
     "event": "六人利用备用通路夺回信标并取得主线回执，五人有权离场。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P089",
