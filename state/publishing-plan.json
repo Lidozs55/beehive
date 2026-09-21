@@ -149,7 +149,7 @@
     "part": 1,
     "event": "两人交换试炼原文笔记，沈知薇把论坛沉帖检索做成可复核清单；过期编号与断掉的回话登记为待查项，不提前判定死者去向。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P020",
@@ -157,7 +157,7 @@
     "part": 2,
     "event": "林越的农业志愿进入办理流程，陆沉承认帮不上具体忙；养父母再问失眠，他交出部分真话，关系没有一键修复。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P021",
@@ -165,7 +165,7 @@
     "part": 3,
     "event": "四个平常周什么都没有发生；两人为下一次04:00做具体准备——约好相认口令与只有本人能答对的核对问题，第一次主动谈论被切走该怎么办。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P022",
@@ -173,7 +173,7 @@
     "part": 1,
     "event": "陆沉和五名陌生人入职，任务要求到花园登记；赵成章把这里当真正的上升通道。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P023",
@@ -181,7 +181,7 @@
     "part": 2,
     "event": "劳动印章分配并非按工时，罗芹帮人换班反而更难离开，具体制度制造而非口号说明压迫。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P024",
@@ -189,7 +189,7 @@
     "part": 3,
     "event": "陆沉发现旧地图花园编号与顶层招牌不符，但还不能证明出口方向。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P025",
@@ -197,7 +197,7 @@
     "part": 1,
     "event": "陆沉替罗芹分担劳动，只拿到更高的下一轮配额；第一次帮助没有带来系统奖励。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P026",
@@ -205,7 +205,7 @@
     "part": 2,
     "event": "赵成章说服其他人接受稳定，穆乔反对却拿不出离开的办法，阵营各有真实吸引力。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P027",
@@ -213,7 +213,7 @@
     "part": 3,
     "event": "罗芹以名字使用权替穆乔换印章，陆沉来不及阻止；代价发生后不能靠退货挽回。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P028",
@@ -221,7 +221,7 @@
     "part": 1,
     "event": "陆沉核对坡度、工时与登记编号，提出地下北庭路线；这不是仅凭觉醒就看穿骗局。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P029",
@@ -229,7 +229,7 @@
     "part": 2,
     "event": "穆乔必须承认自己用过罗芹付出的印章，否则验收材料不完整；幸存者被迫对代价署名。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P030",
@@ -237,7 +237,7 @@
     "part": 3,
     "event": "许简和邵开选择同行，赵成章选择留下；陆沉不能以自己认为正确强拽对方走。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P031",
@@ -245,7 +245,7 @@
     "part": 1,
     "event": "四人绕过交名授权，抵达真实花园节点并提交未注销身份；主目标按原谓词兑现。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P032",
@@ -253,7 +253,7 @@
     "part": 2,
     "event": "系统确认赵成章与罗芹退出，陆沉仍误以为可能像老师那样回家；不急于旁白告诉答案。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P033",
@@ -261,7 +261,7 @@
     "part": 3,
     "event": "结算前04:00全城同步微笑，穆乔把罗芹的名字补进自己的记录，拒绝把付出当没发生。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P034",
@@ -269,7 +269,7 @@
     "part": 1,
     "event": "陆沉按真实学校信息找到陈闻礼，老师不认识他，却仍会先把坏了的椅子让给学生换走。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P035",
@@ -277,7 +277,7 @@
     "part": 2,
     "event": "确认入门退出者活着，不能推出普通试炼退出者也活着；两人的第一份粗糙安全假说被推翻。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P036",
@@ -285,7 +285,7 @@
     "part": 3,
     "event": "沈知薇帮助制定区别记录，姜老板的收费帖把不确定性明码标出，论坛第一次像真正的社会。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P037",
@@ -293,7 +293,7 @@
     "part": 1,
     "event": "养父母聚餐，弟弟画了一扇蓝色的窗；陆沉想问亲生母亲，又怕让养母觉得这些年都不算数。养父母邻居家挂着一幅蓝色儿童画，窗被涂得不方正；先作为生活细节，不解释象征。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P038",
@@ -301,7 +301,7 @@
     "part": 2,
     "event": "林越说清农业、婚姻与维修岗位的打算，不当一个供主角怜悯的快乐傻子。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P039",
@@ -309,7 +309,7 @@
     "part": 3,
     "event": "陆沉把迟到的回信寄出；与沈互换考前计划，不把试炼关系直接当作恋爱承诺。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P040",
@@ -317,7 +317,7 @@
     "part": 1,
     "event": "考试考真实掌握而非纯应试刷题，陆沉的危机冷静有效，过程成绩仍让他付散漫的代价。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P041",
@@ -325,7 +325,7 @@
     "part": 2,
     "event": "沈知薇在实验方案题里坚持说明统计限制，少拿即时分数但保住自己的证据纪律。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P042",
@@ -333,7 +333,7 @@
     "part": 3,
     "event": "笔试结果带来专业选择，最终录取仍待批次；两人在考场外互相等候而不表白。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P043",
@@ -341,7 +341,7 @@
     "part": 1,
     "event": "贺骁、周衡与三名陌生人各自被镜面指控；陆沉记录NPC动作结束后迟到的触感。指路NPC递来一块路牌，陆沉接过后察觉触感在动作结束后短暂滞留；线索有实际输入来源。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P044",
@@ -349,7 +349,7 @@
     "part": 2,
     "event": "贺骁的武力不能打破针对自己的卷宗，周衡知道旧流程却隐瞒了一处风险。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P045",
@@ -357,7 +357,7 @@
     "part": 3,
     "event": "陆沉发现原始事件与动机推断被混成一句话，提出先找证词而非先认罪。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P046",
@@ -365,7 +365,7 @@
     "part": 1,
     "event": "何竞打碎证据，孙逸躲避身份核验，时间压缩让两条错误路径各有后果。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P047",
@@ -373,7 +373,7 @@
     "part": 2,
     "event": "陆沉承认阴暗念头的存在，却拒绝把未发生的伤害当成既成事实，保持人物底线。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P048",
@@ -381,7 +381,7 @@
     "part": 3,
     "event": "贺骁第一次停拳听人说完；周衡交出曾藏住的风险资料，付出被怀疑的代价。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P049",
@@ -389,7 +389,7 @@
     "part": 1,
     "event": "众人被幻境分隔，陆沉用各自刚刚共同确认的事实定位人，而非把真名当咒语。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P050",
@@ -397,7 +397,7 @@
     "part": 2,
     "event": "梁萤主动纠正自己的伪证，换来孙逸路线失败的消息，救人已经晚了。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P051",
@@ -405,7 +405,7 @@
     "part": 3,
     "event": "贺骁护住临时队伍但按计划撤退，不再用硬挡证明自己强；何竞失去最后核验时间。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P052",
@@ -413,7 +413,7 @@
     "part": 1,
     "event": "四人各自完成陈述，系统接受有边界的责任而不是无限认罪；镜城的规则得到可验证解释。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P053",
@@ -421,7 +421,7 @@
     "part": 2,
     "event": "技能破障入账，孙与何的死亡也进入记录；主角拒绝把这场只写成收益。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P054",
@@ -429,7 +429,7 @@
     "part": 3,
     "event": "周衡留下联系方式用于结算争议，贺骁正式问陆沉能否交换经验，而不是偶遇强行组队。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P055",
@@ -437,7 +437,7 @@
     "part": 1,
     "event": "陆沉按约到训练馆取贺骁手中的动作记录，不把见面写成无因的巧合。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P056",
@@ -445,7 +445,7 @@
     "part": 2,
     "event": "论坛指控有部分可查依据，四人公开能公开的时序，保护死者私密内容；姜黎注意到这笔成本。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P057",
@@ -453,7 +453,7 @@
     "part": 3,
     "event": "沈知薇不为自己没参加的镜城作证，只帮检查论证；她第一次明确指出陆沉过度解释的漏洞。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P058",
@@ -461,7 +461,7 @@
     "part": 1,
     "event": "开场即公布通信收费，姜黎卖一条有用但不完整的路线，文青先检查面板离线条件。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P059",
@@ -469,7 +469,7 @@
     "part": 2,
     "event": "于沛听觉优势消失，改用手掌辨振动；陆沉不再能把一切交给自己敏锐的耳朵。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P060",
@@ -477,7 +477,7 @@
     "part": 3,
     "event": "大家初步分声额，杜垣反对公开自己的余量，陶芸担心不够照顾受伤者。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "written"
   },
   {
     "id": "P061",
@@ -557,7 +557,7 @@
     "part": 1,
     "event": "贺骁替被冤同学出头后主动提交对自己不利的监控段，陆沉帮助完整还原，而非黑入删除打人证据。",
     "target_chars": 3000,
-    "status": "todo"
+    "status": "done"
   },
   {
     "id": "P071",

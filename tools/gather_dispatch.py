@@ -8,6 +8,9 @@ import re
 import sys
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+
 ROOT = Path(__file__).resolve().parent.parent
 
 
@@ -26,7 +29,7 @@ def main(pid):
     if ent:
         out.append(f"- 计划条目：单元{ent.get('unit')} 目标{ent.get('target_chars')}字 | 事件：{ent.get('event')}")
     else:
-        out.append(f"- ⚠ {pid} 不在 publishing-plan.json！")
+        out.append(f"- [WARN] {pid} 不在 publishing-plan.json！")
 
     # 2 场景卡（chapters/ 与 arcs/ 全量搜索）
     card = None
@@ -40,15 +43,18 @@ def main(pid):
             break
     if card:
         out.append(f"- 场景卡（{cardfile}，逐字照贴进简报）：\n{card}")
+    elif num <= 18:
+        out.append(f"- [WARN] 开篇章 {pid} 应有明细场景卡，但未找到对应标题")
     else:
-        out.append(f"- ⚠ 未找到 '## {pid}' 场景卡标题，需人工在 chapters/ arcs/ 定位")
+        out.append("- 场景简报：P019起无预制逐章细卡；以 state/handoff.md 的本章简报为主，并核对上述事件骨架")
 
     # 3 established-facts：本章条目行号 + 建议阅读区间
     ef_lines = read("state/established-facts.md").splitlines()
     hits = [i + 1 for i, l in enumerate(ef_lines) if f"（{pid}）" in l]
     if hits:
-        lo, hi = max(1, hits[0] - 6), min(len(ef_lines), hits[-1] + 6)
-        out.append(f"- established-facts：本章条目在第{hits}行 → 简报填阅读区间 第{lo}-{hi}行")
+        # Include prior context, but never leak later planned chapters into a dispatch.
+        lo, hi = max(1, hits[0] - 6), hits[-1]
+        out.append(f"- established-facts：本章条目在第{hits}行 → 简报填阅读区间 第{lo}-{hi}行（止于本章最后一条，勿向后读取未来章）")
     else:
         out.append("- established-facts：本章无既有条目（新章），简报填'通读文件头部规则+上一章区间'")
 
@@ -59,9 +65,9 @@ def main(pid):
         for i, l in trows:
             out.append(f"- timeline-log 第{i}行（照贴）：{l.strip()}")
     else:
-        out.append(f"- ⚠ timeline-log 无 {pid} 行（新章，回执提案登记）")
+        out.append(f"- [WARN] timeline-log 无 {pid} 行（新章，回执提案登记）")
 
-    # 5 summaries 节点行号区间（只给区间，不给内容）
+    # 5 summaries 节点位置；代理用 slice_summaries.py 提取，不全量读取。
     sm = read("state/summaries.md").splitlines()
     heads = [(i + 1, l) for i, l in enumerate(sm) if re.match(r"^## P\d{3}", l)]
 
@@ -74,13 +80,13 @@ def main(pid):
 
     cur, prv = node_span(pid), node_span(prev)
     if cur and prv:
-        out.append(f"- summaries：本章节点 第{cur[0]}-{cur[1]}行（要点勾稽清单）；上一章节点 第{prv[0]}-{prv[1]}行 → 简报填区间 第{prv[0]}-{cur[1]}行")
+        out.append(f"- summaries：运行 python tools/slice_summaries.py {prev} {pid}（定位：上一章L{prv[0]}-{prv[1]}，本章L{cur[0]}-{cur[1]}）")
     elif cur:
-        out.append(f"- summaries：本章节点 第{cur[0]}-{cur[1]}行（无上一章节点）")
+        out.append(f"- summaries：运行 python tools/slice_summaries.py {pid}（本章L{cur[0]}-{cur[1]}，无上一章节点）")
     elif prv:
-        out.append(f"- summaries：无本章节点；上一章节点 第{prv[0]}-{prv[1]}行")
+        out.append(f"- summaries：本章无节点；运行 python tools/slice_summaries.py {prev} 读取上一章L{prv[0]}-{prv[1]}")
     else:
-        out.append("- ⚠ summaries 无本章也无上一章节点")
+        out.append("- [WARN] summaries 无本章也无上一章节点")
 
     # 6 到期钩子（next-hook 命中行，逐字引用）
     nh = read("state/next-hook.md").splitlines()
@@ -93,7 +99,7 @@ def main(pid):
 
     # 7 上一章文件
     prevf = sorted((ROOT / "正文").glob(f"{prev}-*.md"))
-    out.append(f"- 上一章文件：{prevf[0].name if prevf else f'⚠ {prev} 缺失！'}")
+    out.append(f"- 上一章文件：{prevf[0].name if prevf else f'[WARN] {prev} 缺失！'}")
 
     print("\n".join(out))
 
