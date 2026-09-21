@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SUMMARY_PATH = ROOT / "state" / "summaries.md"
 PID_RE = re.compile(r"^P(\d{3})$")
 RANGE_RE = re.compile(r"^P(\d{3})-P?(\d{3})$")
-HEADING_RE = re.compile(r"^## (P\d{3})(?:\s|$)")
+HEADING_RE = re.compile(r"^## (P\d{3})(?=\s|[（(【]|$)")
 
 
 def requested_pids(args):
