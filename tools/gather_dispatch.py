@@ -18,7 +18,15 @@ def read(p):
     return (ROOT / p).read_text(encoding="utf-8")
 
 
+def workflow_open():
+    handoff = (ROOT / "state" / "handoff.md").read_text(encoding="utf-8")
+    return "v2_dispatch: open" in handoff
+
+
 def main(pid):
+    if not workflow_open():
+        print("[BLOCKED] v2 派发尚未开启；当前旧轮次材料不得进入派发链。", file=sys.stderr)
+        return 2
     num = int(pid[1:])
     prev = f"P{num-1:03d}"
     out = [f"## 本章参数 · {pid}"]
@@ -31,10 +39,12 @@ def main(pid):
     else:
         out.append(f"- [WARN] {pid} 不在 publishing-plan.json！")
 
-    # 2 场景卡（chapters/ 与 arcs/ 全量搜索）
+    # 2 写作卡（chapters/写作卡/ 每章一卡优先；chapters/ 与 arcs/ 兜底）
     card = None
     cardfile = None
-    card_files = sorted((ROOT / "chapters").glob("*.md")) + sorted((ROOT / "arcs").glob("*.md"))
+    card_files = (sorted((ROOT / "chapters" / "写作卡").glob("*.md"))
+                  + sorted((ROOT / "chapters").glob("*.md"))
+                  + sorted((ROOT / "arcs").glob("*.md")))
     for f in card_files:
         text = f.read_text(encoding="utf-8")
         m = re.search(rf"(?ms)^##\s*{pid}\b.*?(?=^##\s|\Z)", text)
@@ -42,11 +52,9 @@ def main(pid):
             card, cardfile = m.group(0).strip(), f.name
             break
     if card:
-        out.append(f"- 场景卡（{cardfile}，逐字照贴进简报）：\n{card}")
-    elif num <= 18:
-        out.append(f"- [WARN] 开篇章 {pid} 应有明细场景卡，但未找到对应标题")
+        out.append(f"- 写作卡（{cardfile}，逐字照贴进简报）：\n{card}")
     else:
-        out.append("- 场景简报：P019起无预制逐章细卡；以 state/handoff.md 的本章简报为主，并核对上述事件骨架")
+        out.append(f"- [WARN] {pid} 无写作卡（chapters/写作卡/{pid}.md 缺失）")
 
     # 3 established-facts：本章条目行号 + 建议阅读区间
     ef_lines = read("state/established-facts.md").splitlines()
@@ -60,31 +68,46 @@ def main(pid):
 
     # 4 timeline-log 本章行（逐字引用，作时间锚）
     tl = read("state/timeline-log.md").splitlines()
-    trows = [(i + 1, l) for i, l in enumerate(tl) if re.search(rf"\|\s*{pid}\s*\|", l)]
+    trows = [(i + 1, l) for i, l in enumerate(tl) if re.search(rf"{pid}(?!\d)", l)]
     if trows:
         for i, l in trows:
             out.append(f"- timeline-log 第{i}行（照贴）：{l.strip()}")
     else:
         out.append(f"- [WARN] timeline-log 无 {pid} 行（新章，回执提案登记）")
 
-    # 5 summaries 节点位置；代理用 slice_summaries.py 提取，不全量读取。
-    sm = read("state/summaries.md").splitlines()
-    heads = [(i + 1, l) for i, l in enumerate(sm) if re.match(r"^## P\d{3}", l)]
+    # 5 summaries 节点位置（上/中/下三卷）；代理用 slice_summaries.py 提取，不全量读取。
+    volumes = [p for v in ("上卷", "中卷", "下卷")
+               if (p := ROOT / "state" / f"summaries-{v}.md").exists()]
+    legacy = ROOT / "state" / "summaries.md"
+    if legacy.exists():
+        volumes.append(legacy)
 
-    def node_span(p):
-        for j, (ln, h) in enumerate(heads):
-            if h.startswith(f"## {p}"):
-                end = heads[j + 1][0] - 1 if j + 1 < len(heads) else len(sm)
-                return ln, end
+    def node_span(path, target):
+        lines = path.read_text(encoding="utf-8").splitlines()
+        heads = [(i, l) for i, l in enumerate(lines) if re.match(r"^## P\d{3}", l)]
+        for j, (idx, h) in enumerate(heads):
+            if h.startswith(f"## {target}"):
+                end = heads[j + 1][0] if j + 1 < len(heads) else len(lines)
+                return idx + 1, end
         return None
 
-    cur, prv = node_span(pid), node_span(prev)
+    cur = prv = None
+    curvol = prvvol = ""
+    for p in volumes:
+        if cur is None:
+            span = node_span(p, pid)
+            if span:
+                cur, curvol = span, p.name
+        if prv is None:
+            span = node_span(p, prev)
+            if span:
+                prv, prvvol = span, p.name
     if cur and prv:
-        out.append(f"- summaries：运行 python tools/slice_summaries.py {prev} {pid}（定位：上一章L{prv[0]}-{prv[1]}，本章L{cur[0]}-{cur[1]}）")
+        out.append(f"- summaries：运行 python tools/slice_summaries.py {prev} {pid}（定位：上一章{prvvol}L{prv[0]}-{prv[1]}，本章{curvol}L{cur[0]}-{cur[1]}）")
     elif cur:
-        out.append(f"- summaries：运行 python tools/slice_summaries.py {pid}（本章L{cur[0]}-{cur[1]}，无上一章节点）")
+        out.append(f"- summaries：运行 python tools/slice_summaries.py {pid}（本章{curvol}L{cur[0]}-{cur[1]}，无上一章节点）")
     elif prv:
-        out.append(f"- summaries：本章无节点；运行 python tools/slice_summaries.py {prev} 读取上一章L{prv[0]}-{prv[1]}")
+        out.append(f"- summaries：本章无节点；运行 python tools/slice_summaries.py {prev} 读取上一章{prvvol}L{prv[0]}-{prv[1]}")
     else:
         out.append("- [WARN] summaries 无本章也无上一章节点")
 
@@ -108,4 +131,4 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("用法：python tools/gather_dispatch.py P0XX")
         sys.exit(1)
-    main(sys.argv[1])
+    sys.exit(main(sys.argv[1]))

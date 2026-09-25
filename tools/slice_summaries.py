@@ -14,10 +14,26 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).resolve().parent.parent
-SUMMARY_PATH = ROOT / "state" / "summaries.md"
+VOLUMES = ("上卷", "中卷", "下卷")
 PID_RE = re.compile(r"^P(\d{3})$")
 RANGE_RE = re.compile(r"^P(\d{3})-P?(\d{3})$")
 HEADING_RE = re.compile(r"^## (P\d{3})(?=\s|[（(【]|$)")
+
+
+def workflow_open():
+    handoff = (ROOT / "state" / "handoff.md").read_text(encoding="utf-8")
+    return "v2_dispatch: open" in handoff
+
+
+def summary_paths():
+    if not workflow_open():
+        return []
+    paths = [ROOT / "state" / f"summaries-{v}.md" for v in VOLUMES]
+    paths = [p for p in paths if p.exists()]
+    legacy = ROOT / "state" / "summaries.md"
+    if legacy.exists():
+        paths.append(legacy)
+    return paths
 
 
 def requested_pids(args):
@@ -50,6 +66,9 @@ def split_entries(text):
 
 
 def main(args):
+    if not workflow_open():
+        print("[BLOCKED] v2 尚未开启；旧轮次 summaries 不可作为事实输入。", file=sys.stderr)
+        return 4
     if not args:
         print("用法：python tools/slice_summaries.py P069 P070 或 P051-P070")
         return 1
@@ -59,7 +78,10 @@ def main(args):
         print(f"[ERROR] {exc}", file=sys.stderr)
         return 2
 
-    entries = split_entries(SUMMARY_PATH.read_text(encoding="utf-8"))
+    entries = {}
+    for path in summary_paths():
+        for pid, blocks in split_entries(path.read_text(encoding="utf-8")).items():
+            entries.setdefault(pid, []).extend(blocks)
     missing = [pid for pid in pids if pid not in entries]
     if missing:
         print(f"[WARN] 未找到摘要：{', '.join(missing)}", file=sys.stderr)
